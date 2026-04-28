@@ -118,4 +118,4 @@ Medical experiments focus on diagnosis tasks, while telecom experiments handle d
 
 ## Contributing
 
-This is a research project. For questions or contributions, please open an issue or pull request.
+This is a research project. For questions or contributions, please contact directy. Link to paper: https://arxiv.org/abs/2508.09958
