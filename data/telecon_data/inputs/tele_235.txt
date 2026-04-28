@@ -1,0 +1,1 @@
+question: How can asset management benefit from tracking? option 1: By optimizing operation management option 2: By improving inventory management option 3: By tracking the location of assets option 4: All of the above option 5: None of the above 

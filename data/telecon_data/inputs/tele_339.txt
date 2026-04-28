@@ -1,0 +1,1 @@
+question: What has the dominant impact on the channel estimation quality for cell-edge UEs (User Equipments)? option 1: Pilot contamination option 2: Pathloss option 3: Coherent interference option 4: Uncorrelated fading 

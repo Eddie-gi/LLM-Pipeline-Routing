@@ -1,0 +1,1 @@
+question: Which encryption algorithm is used for data confidentiality in TKIP? option 1: HMAC-SHA-1 option 2: RC4 option 3: AES option 4: CBC-MAC option 5: Michael 

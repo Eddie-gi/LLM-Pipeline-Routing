@@ -1,0 +1,1 @@
+option 2: TAPS offers a modern API that follows an event-driven programming model

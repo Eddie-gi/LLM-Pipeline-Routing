@@ -1,0 +1,1 @@
+option 3: To broadcast a signal to nearby devices and inform them of its presence

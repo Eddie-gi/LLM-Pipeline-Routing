@@ -1,0 +1,1 @@
+question: What does HARQ stand for? option 1: Home Area Routing Query option 2: High Availability Redundant Query option 3: Hierarchical Access Rate Query option 4: Hybrid Automatic Retransmit Query 

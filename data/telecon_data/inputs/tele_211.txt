@@ -1,0 +1,1 @@
+question: Which 3GPP working group is responsible for defining the security aspects of LTE based V2X communication? [3GPP Release 14] option 1: SA WG1 option 2: SA WG2 option 3: SA WG3 option 4: CT WG1 option 5: CT WG3 

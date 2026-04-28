@@ -1,0 +1,1 @@
+question: What is the purpose of resending datagrams in TCP? [TCP/IP] option 1: To acknowledge the receipt of data option 2: To guarantee complete reliability option 3: To set up a connection option 4: To close a connection option 5: To reserve buffer space 

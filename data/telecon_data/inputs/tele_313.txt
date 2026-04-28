@@ -1,0 +1,1 @@
+question: Which type of similarity index derives the similarity of entities from paths and random walks of bounded length? option 1: Preferential Attachment option 2: Leicht-Holme-Newman Index option 3: Hitting Time option 4: Local Katz 

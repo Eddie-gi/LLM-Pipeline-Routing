@@ -1,0 +1,1 @@
+question: In RIT mode, how often does a device transmit an RIT Data Request command? [IEEE 802.15.4] option 1: macRitDataPeriod option 2: macRitDataWaitDuration option 3: macRitDataWaitPeriod option 4: macRitPeriod option 5: macRitPeriodicTransmission 

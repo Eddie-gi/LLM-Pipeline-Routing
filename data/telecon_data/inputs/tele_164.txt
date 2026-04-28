@@ -1,0 +1,1 @@
+question: What is the responsibility of the GS (ground station) regarding the tether? option 1: Maximize the cellular coverage option 2: Provide wireless connection to the core network option 3: Ensure uninterrupted energy supply option 4: Optimize the tUAV's location option 5: Control the tension of the tether 

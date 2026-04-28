@@ -1,0 +1,1 @@
+option 1: Time-to-transmit latency, propagation delay, processing latency, and re-transmission time

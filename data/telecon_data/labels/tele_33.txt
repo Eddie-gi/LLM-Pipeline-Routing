@@ -1,0 +1,1 @@
+option 1: By extracting facts from web sources and evaluating their confidence.

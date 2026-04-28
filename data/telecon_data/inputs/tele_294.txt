@@ -1,0 +1,1 @@
+question: What is the purpose of large-scale antenna system (LSAS) in URLLC (Ultrareliable and low-latency communication)? option 1: Enhance spectral efficiency option 2: Provide ultra-reliability option 3: Reduce latency option 4: All of the above option 5: None of the above 

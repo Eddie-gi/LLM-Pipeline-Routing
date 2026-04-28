@@ -1,0 +1,1 @@
+question: Which organization standardized network function virtualization (NFV)? option 1: ITU option 2: ONF option 3: ETSI option 4: 3GPP option 5: ITU-T 

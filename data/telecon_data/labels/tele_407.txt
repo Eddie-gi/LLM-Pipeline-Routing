@@ -1,0 +1,1 @@
+option 2: Arriving customers decide not to join the queue.

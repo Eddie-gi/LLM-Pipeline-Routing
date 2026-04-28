@@ -1,0 +1,1 @@
+question: What are the challenges in remotely managing evolving DL (Deep Learning) models in intelligent manufacturing? option 1: Power and energy efficiency option 2: Risk control and privacy protection option 3: Response latency and data analysis option 4: Resource bottleneck and continuous evaluation option 5: Networking and caching 

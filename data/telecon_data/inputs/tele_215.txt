@@ -1,0 +1,1 @@
+question: What are the data services included in MCData in Release 14? [3GPP Release 14] option 1: Short message service only option 2: File transfer service only option 3: Both short message service and file transfer service option 4: Email service 

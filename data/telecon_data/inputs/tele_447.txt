@@ -1,0 +1,1 @@
+question: What causes the spectrum shrinkage at larger communication distances in THz channels? option 1: Ill-conditioning with SMX option 2: Coherent re-radiations option 3: Beamforming option 4: Broadened absorption spikes option 5: Reflection losses 

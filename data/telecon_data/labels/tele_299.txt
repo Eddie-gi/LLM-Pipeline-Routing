@@ -1,0 +1,1 @@
+option 1: Allowing a single MC service server to manage all MBMS media transmission

@@ -1,0 +1,1 @@
+question: Which communication technique uses Light Diodes as transmitters? option 1: Large-Scale Antenna Arrays option 2: Free Space Optical Communications option 3: Heterogeneous Networks option 4: Cooperative Relay Communications option 5: Cognitive Radio Communications 

@@ -1,0 +1,1 @@
+question: What is a primary requirement to achieve an inter-slice handover? option 1: Timely slice selection option 2: Session continuity option 3: New protocol entities option 4: Inter-slice handover scheduling option 5: Security of the inter-slice handovers 

@@ -1,0 +1,1 @@
+option 1: A statement of which capabilities and options of a protocol have been implemented.

@@ -1,0 +1,1 @@
+question: What determines the size of the MDP (Markov Decision Process) model? option 1: The state and action spaces option 2: The number of neurons and associated weights option 3: The precision of weights option 4: The training and inference of DNN option 5: None of the above 

@@ -1,0 +1,1 @@
+option 2: Checks if it has already subscribed to the Analytics ID for other UEs

@@ -1,0 +1,1 @@
+option 3: Both short message service and file transfer service

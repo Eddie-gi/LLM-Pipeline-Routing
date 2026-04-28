@@ -1,0 +1,1 @@
+question: Which wireless technology was specifically designed for IoT (Internet of Things) devices and has a transmission range of 1 km? option 1: Zigbee option 2: RFID option 3: Bluetooth option 4: WiFi HaLow option 5: LoRaWAN 

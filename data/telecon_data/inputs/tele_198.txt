@@ -1,0 +1,1 @@
+question: What is an advantage of incorporating energy harvesting (EH) capabilities in massive MIMO networks? option 1: Improved transmission reliability option 2: Increased network lifetime option 3: Reduced carbon footprint option 4: Lower path loss exponent option 5: Higher channel coherence times 

@@ -1,0 +1,1 @@
+question: How is output power measured for amplifiers? [IEEE 802.11] option 1: Decibels (dB) option 2: dB above one milliwatt (dBm) option 3: Watts option 4: Ohms 

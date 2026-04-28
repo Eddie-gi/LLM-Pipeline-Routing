@@ -1,0 +1,1 @@
+question: What is the drawback of improving energy efficiency (EE) to alleviate power consumption in 5G communications? option 1: Infinite power consumption option 2: Explosive future data rate requirements option 3: Limited spectrum availability option 4: High circuit power consumption 

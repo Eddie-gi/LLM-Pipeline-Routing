@@ -1,0 +1,1 @@
+question: What happens when a TAPS (Transport services) transport system falls back to TCP (Transmission Control Protocol)? option 1: The connections become half-closed option 2: The connections become unreliable option 3: The connections become unordered option 4: The connections sacrifice performance for compatibility 

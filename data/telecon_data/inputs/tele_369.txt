@@ -1,0 +1,1 @@
+question: What is the purpose of the Power Management Unit (PMU) in a WPT (wireless power transfer) module? option 1: To convert radio frequency (RF) energy to direct current (DC) option 2: To provide power to the central processing unit (CPU) option 3: To store the harvested energy option 4: To optimize the load at the terminals of the rectifier 

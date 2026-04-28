@@ -1,0 +1,1 @@
+question: What does a '0' value for a bit of the bitmap, provided by dormancyGroupOutsideActiveTime, indicate? [3GPP Release 17] option 1: A firstOutsideActiveTimeBWP-Id for the UE. option 2: A dormant DL BWP for the UE. option 3: A current active DL BWP for the UE. option 4: An active DL BWP for the UE. 

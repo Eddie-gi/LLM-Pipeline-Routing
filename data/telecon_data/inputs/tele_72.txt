@@ -1,0 +1,1 @@
+question: According to the document, what is the maximum temperature rise in the brain for an SAR of 10 W/kg averaged over 10 g? [IEEE C95.1] option 1: 0.053 °C option 2: 0.117 °C option 3: 0.201 °C option 4: 0.331 °C option 5: 0.398 °C 

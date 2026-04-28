@@ -1,0 +1,1 @@
+question: What types of vehicular channel models have been proposed for frequencies below 6 GHz? option 1: Geometry and non-geometry based stochastic models option 2: Ray tracing approaches option 3: Graph based models option 4: All of the above option 5: None of the above 

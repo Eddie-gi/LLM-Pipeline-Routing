@@ -1,0 +1,1 @@
+question: What was the goal of launching QUIC? option 1: To provide a secure and reliable low latency end-to-end transport option 2: To provide a high bandwidth network option 3: To provide a standardized implementation of UDP option 4: To provide a centralized streaming platform 

@@ -1,0 +1,1 @@
+question: What does the acronym ROA stand for? [ETSI NFV Release 5] option 1: Representational Service Transfer option 2: Resource-Oriented Architecture option 3: Remote State Transfer option 4: ROA is not an acronym option 5: REpresentational State Transfer 

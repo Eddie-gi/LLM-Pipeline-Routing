@@ -1,0 +1,1 @@
+question: What does the LCS Server enable in terms of services? [3GPP Release 17] option 1: Location-based services determined by users and service providers option 2: Privacy control for location requests option 3: Positioning for target UEs option 4: Support for telecommunication services option 5: Exchange of information through LCS messages 

@@ -1,0 +1,1 @@
+question: What is the SNR target for higher CBWs assuming 16 and 20 dB? [3GPP Release 18] option 1: 14.4 dB option 2: 18.6 dB option 3: 16 dB option 4: 20 dB 

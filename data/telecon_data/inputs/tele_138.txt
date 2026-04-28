@@ -1,0 +1,1 @@
+question: What technique can be used to protect against external eavesdroppers in Participatory Sensing? option 1: SSL/TLS option 2: Leveraging state-of-the-art techniques option 3: Creating a secure channel between Mobile Nodes and Service Providers option 4: Query interests hiding option 5: None of the above 

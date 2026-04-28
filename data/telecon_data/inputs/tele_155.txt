@@ -1,0 +1,1 @@
+question: What does RRC stand for? option 1: Responsive Radio Communication option 2: Radio Resource Control option 3: Radio Resource Configuration option 4: Responsive Radio Control option 5: Radio Resource Connection 

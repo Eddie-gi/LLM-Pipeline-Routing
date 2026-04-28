@@ -1,0 +1,1 @@
+option 3: To provide message integrity for wireless LAN communication

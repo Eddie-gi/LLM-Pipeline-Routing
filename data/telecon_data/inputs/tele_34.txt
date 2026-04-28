@@ -1,0 +1,1 @@
+question: What is the main purpose of the random forest algorithm? option 1: To classify data points based on similarity option 2: To handle nonlinear decision boundaries option 3: To process time series data option 4: To combine the results of multiple decision trees option 5: To learn high-dimensional feature representations 

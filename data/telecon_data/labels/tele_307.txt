@@ -1,0 +1,1 @@
+option 1: Number of customers in the system and number of phases of service yet to be used

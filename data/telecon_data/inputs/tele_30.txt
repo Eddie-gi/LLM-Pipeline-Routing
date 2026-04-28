@@ -1,0 +1,1 @@
+question: Which type of reporting is supported for CLI measurements? [3GPP Release 18] option 1: Event triggered only option 2: Periodic only option 3: Both event triggered and periodic option 4: Continuous option 5: Manual 

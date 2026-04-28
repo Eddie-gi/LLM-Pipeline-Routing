@@ -1,0 +1,1 @@
+question: What is the relative increase in cable loss per meter from 43.5 GHz to 71 GHz? [3GPP Release 18] option 1: 0.33 dB option 2: 0.9 dB option 3: 3.5 dB option 4: 7.7 dB 

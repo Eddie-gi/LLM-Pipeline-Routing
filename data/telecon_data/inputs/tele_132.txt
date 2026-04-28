@@ -1,0 +1,1 @@
+question: What is link-based clustering in knowledge graphs? option 1: Grouping entities based on their similarity of features option 2: Grouping entities based on their similarity of links option 3: Grouping entities based on both their similarity of features and links option 4: Detecting communities or clusters of entities in the graph 

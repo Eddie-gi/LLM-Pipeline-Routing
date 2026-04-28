@@ -1,0 +1,1 @@
+question: What is a mandatory UE requirement? option 1: A requirement specified by 3GPP option 2: A regulatory requirement of a country/region option 3: A requirement specific to macro cells option 4: A requirement specific to micro cells 

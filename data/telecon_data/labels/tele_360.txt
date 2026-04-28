@@ -1,0 +1,1 @@
+option 1: INC enables flexible distribution of computation tasks across the network, while edge computing is done on edge servers outside the network

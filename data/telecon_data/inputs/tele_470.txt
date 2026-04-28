@@ -1,0 +1,1 @@
+question: How is convolution defined for signals on graphs? option 1: Convolution is not defined for signals on graphs option 2: Multiplication in the time domain option 3: Addition in the graph spectral domain option 4: Addition in the time domain option 5: Multiplication in the graph spectral domain 

@@ -1,0 +1,1 @@
+question: What does ZF stand for? option 1: Zinc Free option 2: WLAN option 3: Zero-Forcing option 4: Use-and-then-Forget option 5: Uniform Linear Array 

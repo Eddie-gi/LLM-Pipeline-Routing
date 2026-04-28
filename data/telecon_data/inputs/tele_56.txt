@@ -1,0 +1,1 @@
+question: What is the purpose of the NL-FL (Node Liability-Federated Learning) methodology? option 1: To classify images option 2: To identify malicious learning nodes option 3: To select clients in FL option 4: To establish a link between decisions and training data option 5: To increase learning performance 

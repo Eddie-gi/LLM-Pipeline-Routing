@@ -1,0 +1,1 @@
+option 4: To send a linear combination of the received packets towards the destination

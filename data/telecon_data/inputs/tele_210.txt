@@ -1,0 +1,1 @@
+question: What inputs are required for the Nmfaf_3caDataManagement_Notify service operation? [3GPP Release 18] option 1: Data Consumer or Analytics Consumer Information, Transaction Reference Id option 2: Notification Correlation Information option 3: Requested Data with timestamp or Analytics with timestamp, Fetch Instructions option 4: Set of Fetch Correlation ID(s) 

@@ -1,0 +1,1 @@
+question: What component is required for holding the information particles in the transmitter? option 1: Processing unit option 2: Storage container option 3: Chemical sensor option 4: Sprays 

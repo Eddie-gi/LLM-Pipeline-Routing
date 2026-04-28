@@ -1,0 +1,1 @@
+option 5: It is capable of operating as a roaming broker.

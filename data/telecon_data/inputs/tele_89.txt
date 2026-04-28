@@ -1,0 +1,1 @@
+question: What happens to an SI after an initial study and agreement? option 1: It becomes a Study Item (SI) option 2: It becomes a Technical Specification (TS) option 3: It becomes a TR option 4: The final agreements of a WI option 5: It becomes a Work Item (WI) 

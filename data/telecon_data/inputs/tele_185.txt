@@ -1,0 +1,1 @@
+question: What is the maximum number of CBR range configurations for sidelink communication congestion control? [3GPP Release 17] option 1: 8 option 2: 7 option 3: 16 option 4: 15 option 5: 12 

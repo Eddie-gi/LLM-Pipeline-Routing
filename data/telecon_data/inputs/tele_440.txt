@@ -1,0 +1,1 @@
+question: What is the premise of networked intelligence? option 1: Advances in hardware technology and machine learning algorithms option 2: Advances in communication and computation option 3: Intelligence at the communicating nodes option 4: Intelligence at the nodes and embedded in the protocols option 5: All of the above 

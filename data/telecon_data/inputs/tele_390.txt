@@ -1,0 +1,1 @@
+question: Which technique is commonly used for geometric shape detection in the context of autonomous driving? option 1: Harris corner detection option 2: Template matching option 3: Hough transform option 4: RANSAC option 5: EKF 

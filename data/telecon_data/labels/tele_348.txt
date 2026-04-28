@@ -1,0 +1,1 @@
+option 2: RRC_CONNECTED state

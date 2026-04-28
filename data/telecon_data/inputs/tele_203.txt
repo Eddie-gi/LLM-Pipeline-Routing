@@ -1,0 +1,1 @@
+question: What is an effective use of terahertz sensing in wireless systems? option 1: Beam management and blockage avoidance option 2: Signal encryption and decryption option 3: Frequency modulation option 4: Power amplification option 5: Channel equalization 

@@ -1,0 +1,1 @@
+question: What is the impact of losses in a transmission line? option 1: Dispersion of waves with different frequencies. option 2: Attenuation of wave amplitude. option 3: Increase in the phase velocity of waves. option 4: Decrease in the characteristic impedance of the transmission line. 

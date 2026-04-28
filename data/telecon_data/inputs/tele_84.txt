@@ -1,0 +1,1 @@
+question: What is one potential use case for 6G networks? option 1: Industrial manufacturing processes option 2: Autonomous vehicles option 3: Smart homes option 4: All of the above option 5: None of the above 

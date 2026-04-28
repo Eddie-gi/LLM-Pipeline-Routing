@@ -1,0 +1,1 @@
+question: What is the purpose of transferring CDRs via Bx? [3GPP Release 18] option 1: To transfer CDRs from CDF to CGF for processing. option 2: To transfer CDRs from CGF to BD for persistent storage. option 3: To transfer CDRs from CDF to CTF for charging data transfer. option 4: To transfer CDRs from OCF to OCS for online charging. 

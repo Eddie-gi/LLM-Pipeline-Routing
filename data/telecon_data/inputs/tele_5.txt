@@ -1,0 +1,1 @@
+question: What is the purpose of the QoS profile in NG-RAN? [3GPP Release 18] option 1: To establish PDU sessions option 2: To determine radio interface treatment option 3: To identify QoS flows option 4: To map packets to DRBs 

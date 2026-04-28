@@ -1,0 +1,1 @@
+question: Which type of frame is used by stations to acknowledge the receipt of a frame when no data needs to be transmitted? [IEEE 802.11] option 1: Data option 2: CF-Ack option 3: Data+CF-Poll option 4: Data+CF-ACK+CF-Poll option 5: CF-End+CF-Ack 

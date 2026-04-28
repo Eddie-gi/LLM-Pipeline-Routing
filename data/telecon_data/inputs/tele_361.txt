@@ -1,0 +1,1 @@
+question: What is the cyclic-prefix length for normal cyclic prefix in SC-FDMA? [3GPP Release 17] option 1: 160Ts option 2: 144Ts option 3: 512Ts option 4: 256Ts option 5: 768Ts 

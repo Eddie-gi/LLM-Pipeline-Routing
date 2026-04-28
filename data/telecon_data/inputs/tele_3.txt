@@ -1,0 +1,1 @@
+question: What information is used to reconstruct the missing part of an image in the hetero-modal image reconstruction? option 1: Only the image with occlusion option 2: Only the sequence of received power of RF signals option 3: Both the image with occlusion and the sequence of received power of RF signals option 4: The ground truth image option 5: None of the above 

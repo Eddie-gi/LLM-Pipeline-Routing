@@ -1,0 +1,1 @@
+question: Which message contains the low layer configuration for the UE? [3GPP Release 17] option 1: INITIAL UE MESSAGE option 2: DL RRC MESSAGE TRANSFER option 3: RRC CONNECTION SETUP COMPLETE option 4: UL RRC MESSAGE TRANSFER option 5: INITIAL UL RRC MESSAGE TRANSFER 

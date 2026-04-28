@@ -1,0 +1,1 @@
+question: What are CMs (characteristic modes) based on? option 1: Current distributions. option 2: Impedance operators. option 3: Modal radiation patterns. option 4: Orthogonalize radiation patterns. option 5: Frequency domain integral equations. 

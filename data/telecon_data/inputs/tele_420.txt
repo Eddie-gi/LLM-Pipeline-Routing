@@ -1,0 +1,1 @@
+question: What is the term used to describe a queueing network where all nodes represent queues and the number of customers is constant? option 1: Open network option 2: Closed network option 3: Markovian network option 4: Node network option 5: Routing chain 

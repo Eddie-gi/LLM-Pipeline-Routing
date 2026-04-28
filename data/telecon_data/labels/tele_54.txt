@@ -1,0 +1,1 @@
+option 5: The UE's subscription record stored in the UDM

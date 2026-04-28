@@ -1,0 +1,1 @@
+question: What is the optimal tradeoff curve between storage and repair bandwidth for MSR (minimum-storage regenerating) codes? option 1: Increasing repair bandwidth increases storage option 2: Increasing storage increases repair bandwidth option 3: Increasing storage has no effect on repair bandwidth option 4: Increasing storage decreases repair bandwidth 

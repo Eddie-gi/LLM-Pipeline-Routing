@@ -1,0 +1,1 @@
+question: Which organization is jointly framing the concepts of operations for UAV (Unmanned Aerial Vehicle) traffic management in the USA? option 1: 3GPP and ITU option 2: ICNIRP and IEEE option 3: ICNIRP and FAA option 4: FCC and EC option 5: FAA and NASA 

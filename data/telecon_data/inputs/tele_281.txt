@@ -1,0 +1,1 @@
+question: What is the selected threshold for the hazard from acute (short-term) exposure? [IEEE C95.1] option 1: 1 W/kg option 2: 2 W/kg option 3: 3 W/kg option 4: 4 W/kg option 5: Not mentioned 

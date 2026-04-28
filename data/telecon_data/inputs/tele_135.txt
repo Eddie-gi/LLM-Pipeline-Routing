@@ -1,0 +1,1 @@
+question: What is the familiar form of the law of refraction? option 1: sinθI / sinθT = n2 / n1 option 2: cosθI / cosθT = n2 / n1 option 3: tanθI / tanθT = n2 / n1 option 4: θI / θT = n2 / n1 

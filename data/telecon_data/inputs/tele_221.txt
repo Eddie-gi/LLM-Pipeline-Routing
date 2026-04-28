@@ -1,0 +1,1 @@
+question: What is the purpose of unconstrained Tucker decompositions? option 1: To find the subspaces spanned by the fibers option 2: To factorize data into easily interpretable components option 3: To compress data into a tensor of smaller size option 4: To diagonalize the core tensor option 5: To minimize the approximation error in a low multilinear rank approximation 

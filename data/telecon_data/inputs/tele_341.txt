@@ -1,0 +1,1 @@
+question: What are consortium blockchains? option 1: Partially private blockchains controlled by a single company. option 2: Blockchains that use proof of work as their consensus method. option 3: Blockchains governed by several institutions participating in the consensus protocol. option 4: Blockchains with unrestricted access to the public. 

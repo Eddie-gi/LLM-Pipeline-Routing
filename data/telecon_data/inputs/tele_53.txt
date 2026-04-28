@@ -1,0 +1,1 @@
+question: What is the minimum user plane latency required for tactile internet applications in 6G? option 1: 1 ms option 2: 10 ms option 3: 100 ms option 4: 1000 ms 

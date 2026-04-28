@@ -1,0 +1,1 @@
+question: What is the purpose of spreading in PUCCH formats 3 and 4? [3GPP Release 17] option 1: To increase the bandwidth of the PUCCH transmission. option 2: To enhance the orthogonality of the transmitted symbols. option 3: To improve the immunity of the transmitted signal to multipath fading. option 4: To reduce the inter-UE interference in the PUCCH transmission. 

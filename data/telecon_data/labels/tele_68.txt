@@ -1,0 +1,1 @@
+option 1: ~85 Mbps in DL and ~90 Mbps in UL

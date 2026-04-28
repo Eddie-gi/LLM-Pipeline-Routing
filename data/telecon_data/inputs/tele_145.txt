@@ -1,0 +1,1 @@
+question: What should a VHT beamformee do when responding to a Beamforming Report Poll frame? [IEEE 802.11] option 1: Ignore the Beamforming Report Poll frame option 2: Transmit all feedback segments that exist option 3: Transmit a Management frame option 4: Transmit an Ack frame option 5: Transmit only the indicated feedback segments 

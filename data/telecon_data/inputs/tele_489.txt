@@ -1,0 +1,1 @@
+question: What technique is used to improve the efficiency and robustness of training? option 1: Backpropagation option 2: Batch processing option 3: Fine-tuning option 4: Supervised learning option 5: Unsupervised learning 

@@ -1,0 +1,1 @@
+option 1: To support data collection and event exposure by an AF to event consumers

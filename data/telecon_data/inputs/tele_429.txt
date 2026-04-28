@@ -1,0 +1,1 @@
+question: Which DL (Deep Learning) architecture is suitable for time-series data? option 1: Convolutional Neural Networks (CNNs) option 2: Long Short Term Memory (LSTM) option 3: Restricted Boltzmann Machine (RBMs) option 4: Variational Autoencoders (VAEs) option 5: Generative Adversarial Networks (GANs) 

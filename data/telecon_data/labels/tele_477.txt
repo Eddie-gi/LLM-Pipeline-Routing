@@ -1,0 +1,1 @@
+option 2: Sharing the complete temporal and spectral resources of the uplink channel in a non-orthogonal manner.

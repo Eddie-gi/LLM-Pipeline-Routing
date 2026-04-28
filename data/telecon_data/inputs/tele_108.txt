@@ -1,0 +1,1 @@
+question: What is the maximal estimation precision allowed by quantum mechanics? option 1: Standard quantum limit (SQL) option 2: Heisenberg limit option 3: Quantum bound option 4: Quantum discord option 5: Fisher information matrix 

@@ -1,0 +1,1 @@
+question: What do the benefits and solutions of caching highly depend on? option 1: Spectral efficiency option 2: Network performance option 3: Content popularity option 4: Traffic characteristics 

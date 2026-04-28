@@ -1,0 +1,1 @@
+question: Which code performs better than the CA-Polar code with SCL (successive cancellation list) decoding of list size 4? option 1: BCH Code option 2: TB-CC $m=8$ option 3: LDPC Code with log-BP decoding option 4: Polar Code with list size 32 option 5: LDPC Code with FFT-BP decoding 

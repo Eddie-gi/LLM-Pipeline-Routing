@@ -1,0 +1,1 @@
+option 1: To compare an input to a positive and a negative input and maximize association between positively associated inputs

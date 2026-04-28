@@ -1,0 +1,1 @@
+question: What is the function of the Element Manager? option 1: Management of network elements on an individual basis option 2: Management of end-users in a network option 3: Management of telecommunication organization's information systems option 4: Management of access conditions and data on the UICC 

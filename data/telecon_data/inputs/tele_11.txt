@@ -1,0 +1,1 @@
+question: Which interframe space is used for the highest-priority transmissions? [IEEE 802.11] option 1: PIFS option 2: SIFS option 3: DIFS option 4: EIFS option 5: Distributed interframe space (DIFS) 

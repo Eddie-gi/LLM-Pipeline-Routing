@@ -1,0 +1,1 @@
+question: What is a communication protocol? option 1: The control information used for encoding network/link state option 2: The source code that describes the current protocol state option 3: A distributed algorithm for the communication process option 4: A heuristic approach for transmitting protocol-related metadata 

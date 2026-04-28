@@ -1,0 +1,1 @@
+option 3: The duration that the UE waits for, after waking up, to receive PDCCHs

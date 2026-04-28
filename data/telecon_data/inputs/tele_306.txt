@@ -1,0 +1,1 @@
+question: What is the name of the inequality expressed as f(θx+(1−θ)y)≤θf(x)+(1−θ)f(y)? option 1: Hölder's inequality option 2: Arithmetic-geometric mean inequality option 3: Jensen's inequality option 4: Convexity inequality 

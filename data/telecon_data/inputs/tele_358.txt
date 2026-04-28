@@ -1,0 +1,1 @@
+question: Where can the UE receive PLMN identity and CN type information in a given cell? [3GPP Release 17] option 1: Data channel option 2: Access channel option 3: Control channel option 4: Broadcast channel option 5: Paging channel 

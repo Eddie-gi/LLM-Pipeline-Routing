@@ -1,0 +1,1 @@
+option 5: The beamforming patterns dictate the resolvability of the antenna array

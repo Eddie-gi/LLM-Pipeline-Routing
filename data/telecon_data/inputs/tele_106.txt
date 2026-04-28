@@ -1,0 +1,1 @@
+question: What applications and services can be enabled by the future VANETs (Vehicular communications networks)? option 1: Smart city and Intelligent Transportation System (ITS) applications option 2: Real-time traffic prediction and management option 3: Self-driving vehicles option 4: Mobile applications and services for in-vehicle activities option 5: All of the above 

@@ -1,0 +1,1 @@
+question: Which of the following is a significant effect of frequency selectivity in wideband THz channels? option 1: Blockage option 2: Scattering option 3: Noise option 4: Inter-symbol interference (ISI) 

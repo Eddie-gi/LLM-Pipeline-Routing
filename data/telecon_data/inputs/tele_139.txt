@@ -1,0 +1,1 @@
+question: What are the two main design approaches for MC (molecular communications) transmitter (Tx) and receiver (Rx)? option 1: Nanomaterial-based and synthetic biology-based option 2: Biological-based and electrical-based option 3: Electromagnetic-based and chemical-based option 4: Microfluidic-based and mechanical-based 

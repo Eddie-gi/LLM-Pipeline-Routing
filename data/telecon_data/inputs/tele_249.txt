@@ -1,0 +1,1 @@
+question: What is the purpose of the Central Unit in the O-RAN architecture? option 1: To distribute the higher layers of the protocol stack option 2: To handle frequency-domain functionalities option 3: To perform management and control of the network at near-real-time option 4: To implement the physical layer 

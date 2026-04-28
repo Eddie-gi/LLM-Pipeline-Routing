@@ -1,0 +1,1 @@
+question: What is the desirability of decoding universality in URLLC (ultra-reliable low-latency communications)? option 1: To achieve the maximum reliability option 2: To achieve the maximum latency option 3: To reduce the decoding complexity option 4: To reduce the code length and rate option 5: To increase the overall latency 

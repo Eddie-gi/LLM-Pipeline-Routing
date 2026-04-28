@@ -1,0 +1,1 @@
+question: What is the purpose of multiple donor cells in mmWave bridge deployment? option 1: To provide Internet connectivity to trains option 2: To relay multiple small cells over mmWave bridges option 3: To create a dedicated corridor cell along the railway track option 4: To support time division duplex (TDD) option 5: To avoid interference with existing cellular networks 

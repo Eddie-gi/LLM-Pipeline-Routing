@@ -1,0 +1,1 @@
+option 3: To summarize notifications and reduce the volume of data reported to the Data Consumer

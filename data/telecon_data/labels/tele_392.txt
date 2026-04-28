@@ -1,0 +1,1 @@
+option 4: To iteratively search for the brightest point sources in the data and update the model image.

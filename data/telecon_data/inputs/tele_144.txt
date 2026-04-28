@@ -1,0 +1,1 @@
+question: Which specifications define the Network Resource Model (NRM) information service and solution set for 5G networks and network slicing? [3GPP Release 15] option 1: TS 28.541, TS 28.623, TS 28.622 option 2: TS 28.554, TS 28.550, TS 28.552 option 3: TS 28.540, TS 28.658, TS 28.626 option 4: TS 28.531, TS 28.532, TS 28.533 option 5: TS 28.541, TS 28.540, TS 28.658 

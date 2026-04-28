@@ -1,0 +1,1 @@
+question: What are some of the challenges introduced by mmWave systems? option 1: Severe channel attenuation option 2: Vulnerability to obstacles option 3: Directionality of mmWave communications option 4: All of the above 

@@ -1,0 +1,1 @@
+question: What is the purpose of a Tile Group OBU (open bit-stream unit) in AV1? option 1: To signal the start of a temporal unit option 2: To indicate the frame presentation time stamp option 3: To set up the coding information for a given frame option 4: To carry information such as high dynamic range option 5: To contain the tile data associated with a frame 

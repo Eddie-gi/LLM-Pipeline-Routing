@@ -1,0 +1,1 @@
+option 2: To enhance the orthogonality of the transmitted symbols.

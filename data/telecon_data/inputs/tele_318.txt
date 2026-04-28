@@ -1,0 +1,1 @@
+question: Which access control mechanisms are supported by NG-RAN? [3GPP Release 18] option 1: RACH back off option 2: RRC Connection Reject option 3: RRC Connection Release option 4: UE based access barring mechanisms option 5: All of the above 

@@ -1,0 +1,1 @@
+question: Which mode of ESP provides confidentiality for any application that uses it? option 1: Gateway mode option 2: Tunnel mode option 3: IP mode option 4: Transport mode 

@@ -1,0 +1,1 @@
+question: Which metric captures the frequency response of the wireless channel? option 1: Received Signal Strength (RSS) option 2: Channel State Information (CSI) option 3: Time of Flight (ToF) option 4: Doppler Shift option 5: Angle of Arrival (AoA) 

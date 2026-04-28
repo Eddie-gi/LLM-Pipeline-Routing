@@ -1,0 +1,1 @@
+option 1: To decrease interference in the medium access control (MAC) layer

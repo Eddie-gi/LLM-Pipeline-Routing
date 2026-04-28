@@ -1,0 +1,1 @@
+question: What is the major challenge in continual learning known as? option 1: Plasticity stability trade-off option 2: Gradient rectification dilemma option 3: Distribution difference balancing option 4: Catastrophic forgetting option 5: Resource efficiency problem 

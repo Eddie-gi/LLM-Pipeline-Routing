@@ -1,0 +1,1 @@
+option 1: The sum of the induced currents is greater than the threshold

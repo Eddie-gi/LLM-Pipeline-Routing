@@ -1,0 +1,1 @@
+question: What information is included in the Location Report message when the NG-RAN detects that the UE has moved out of or into multiple areas of interest? [3GPP Release 18] option 1: UE Location option 2: UE Presence in Area Of Interest option 3: Request Reference ID option 4: All of the above option 5: None of the above 

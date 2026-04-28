@@ -1,0 +1,1 @@
+question: What modulation technique is used to modulate the electrical subcarriers in optical OFDM (OOFDM)? option 1: Amplitude modulation (AM) option 2: Frequency modulation (FM) option 3: Phase modulation (PM) option 4: Quadrature amplitude modulation (QAM) option 5: Frequency-shift keying (FSK) 

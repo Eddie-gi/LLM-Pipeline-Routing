@@ -1,0 +1,1 @@
+question: Who are the end-users in the context of telecommunications? option 1: Service providers option 2: Manufacturers of telecommunication equipment option 3: Regulatory agencies option 4: Individuals or organizations who consume or utilize telecommunication services 

@@ -1,0 +1,1 @@
+question: What is the main theoretical tool for analyzing latency in networks? option 1: Real-time Transport Protocol option 2: Stochastic network calculus option 3: Network Time Protocol option 4: Transmission Control Protocol option 5: Queuing theory 

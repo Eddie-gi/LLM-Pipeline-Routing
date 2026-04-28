@@ -1,0 +1,1 @@
+question: Which layer assures reliable communication between hosts in TCP/IP? option 1: Network access layer option 2: Internet protocol layer option 3: Transport layer option 4: Application layer 

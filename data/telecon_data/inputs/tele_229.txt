@@ -1,0 +1,1 @@
+question: What are the two classes of features used in object recognition? option 1: Histograms and salience features option 2: Global features and local features option 3: Principal Component Analysis and Spin Image option 4: Feature extraction and classification 

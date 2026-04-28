@@ -1,0 +1,1 @@
+option 3: Exploiting the received RF signals to extract both information and energy

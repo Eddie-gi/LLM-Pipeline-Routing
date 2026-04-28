@@ -1,0 +1,1 @@
+question: What is the purpose of the HR-SBO PDU Session in roaming? [3GPP Release 18] option 1: To establish a secure connection between the UE and the V-SMF option 2: To enable local traffic routing in the visited PLMN option 3: To provide access to the data network in the home PLMN option 4: To support session breakout in V-PLMN based on the subscription 

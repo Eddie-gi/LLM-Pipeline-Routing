@@ -1,0 +1,1 @@
+question: What is LPWA (Low-Power Wide Area) technology primarily designed for? option 1: High-speed data transmission option 2: Large data rates and traffic volumes option 3: Infrequent small data transmissions option 4: Supporting mobility and roaming option 5: Interference mitigation in unlicensed bands 

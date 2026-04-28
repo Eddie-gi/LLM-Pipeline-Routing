@@ -1,0 +1,1 @@
+question: What is the expected increase in spectral efficiency in 6G networks for eHealth services? option 1: 2-5x option 2: 5-10x option 3: 10-20x option 4: 20-30x option 5: 30-40x 

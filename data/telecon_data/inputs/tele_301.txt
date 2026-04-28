@@ -1,0 +1,1 @@
+question: What is one of the potential use cases in 6G?  option 1: Smart cities option 2: Autonomous vehicles option 3: Augmented reality option 4: Healthcare applications option 5: All of the above 

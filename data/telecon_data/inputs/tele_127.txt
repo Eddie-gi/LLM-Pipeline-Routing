@@ -1,0 +1,1 @@
+question: How can channel feedback delay be reduced? option 1: By having shorter time slots and feeding back more often option 2: By increasing the transmit power option 3: By reducing the number of users option 4: By decreasing the channel fluctuations option 5: None of the above 

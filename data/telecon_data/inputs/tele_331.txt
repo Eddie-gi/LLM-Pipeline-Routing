@@ -1,0 +1,1 @@
+question: Which interface is used between the BSC and BTS to support the services offered to the GSM users and subscribers? [3GPP Release 17] option 1: S1-MME-interface option 2: S1-U-interface option 3: Abis-interface option 4: Iub-interface option 5: Iur-interface 

@@ -1,0 +1,1 @@
+option 2: The UE excludes the WLAN BSS if not all metrics related to the provided thresholds can be acquired.

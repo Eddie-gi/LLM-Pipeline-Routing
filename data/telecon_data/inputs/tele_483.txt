@@ -1,0 +1,1 @@
+question: What are the main components of an Edge Information System (EIS)? option 1: Edge servers, user devices, and remote Cloud data center option 2: Edge servers, vehicles, and user devices option 3: Edge servers, V2I communications, and V2V communications option 4: Edge servers, onboard sensors, and perception algorithms option 5: Edge servers, GPS, and LiDAR 

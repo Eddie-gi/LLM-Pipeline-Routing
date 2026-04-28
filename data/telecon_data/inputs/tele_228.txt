@@ -1,0 +1,1 @@
+question: What can the user change in the privacy exception list? [3GPP Release 17] option 1: The LCS Client and/or group of LCS Clients list option 2: The codeword option 3: The requestor option 4: The service types option 5: All of the above 

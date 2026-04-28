@@ -1,0 +1,1 @@
+question: What is the advantage of using hybrid transceivers in massive MIMO systems? option 1: Reduced cost and energy consumption option 2: Increased spectral efficiency option 3: Improved signal quality option 4: Extended coverage range option 5: Higher data transmission speed 

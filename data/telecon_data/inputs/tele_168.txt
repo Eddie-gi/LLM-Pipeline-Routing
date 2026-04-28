@@ -1,0 +1,1 @@
+question: What is UICC? option 1: Universal Intermediate Control Center option 2: Universal Subscriber Identity Card option 3: Universal Subscriber Information Center option 4: Universal Secure IC Card option 5: Universal User Inquiry and Control 

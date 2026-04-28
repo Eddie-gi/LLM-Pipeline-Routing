@@ -1,0 +1,1 @@
+question: What does DFT stand for? option 1: Digital Audio Broadcast option 2: Digital Fourier Transform option 3: Discrete Fourier Transform option 4: Discrete Time-Division Duplex option 5: Distribution Free Test 

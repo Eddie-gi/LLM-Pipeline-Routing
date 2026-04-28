@@ -1,0 +1,1 @@
+question: What is a birth-and-death process? option 1: A process where the number of births and deaths are equal option 2: A process where the number of births and deaths are not equal option 3: A process where the population size increases and decreases option 4: A process where the population size remains constant option 5: A process where the population size never changes 

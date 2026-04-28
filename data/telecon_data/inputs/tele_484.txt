@@ -1,0 +1,1 @@
+question: What is the effect of wave curvature over the arrays in the THz band? option 1: It causes major scattering and reflection losses. option 2: It leads to a high-rank channel in the LOS channel matrix. option 3: It enables spatial multiplexing at THz frequencies. option 4: It makes the planar wavefront approximation precise in the LOS channel matrix. 

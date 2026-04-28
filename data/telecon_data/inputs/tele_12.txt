@@ -1,0 +1,1 @@
+question: Which networking device is used to connect multiple computers in a LAN and forward data packets between them? option 1: Router option 2: Switch option 3: Modem option 4: Firewall 

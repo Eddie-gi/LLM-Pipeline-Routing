@@ -1,0 +1,1 @@
+question: What is the main goal of enabling 5G LAN-type services and virtual networks? [3GPP Release 16] option 1: To provide long distance access and mobility option 2: To offer private communication using IP and/or non-IP type communications option 3: To support 5G LAN-virtual networks option 4: To enhance the security and privacy of LAN services 

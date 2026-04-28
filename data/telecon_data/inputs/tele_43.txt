@@ -1,0 +1,1 @@
+question: Which physical channel carries the DL-SCH and PCH? [3GPP Release 17] option 1: PDSCH option 2: PMCH option 3: PUCCH option 4: PBCH 

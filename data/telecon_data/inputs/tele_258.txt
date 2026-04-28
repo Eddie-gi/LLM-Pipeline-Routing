@@ -1,0 +1,1 @@
+question: What is the purpose of the xMB API? [3GPP Release 16] option 1: To define the reference point specification for MBMS option 2: To handle packet losses in MBMS option 3: To manage content providers in MBMS option 4: To control MBMS delivery procedures option 5: To provide extended control features for MC Services 

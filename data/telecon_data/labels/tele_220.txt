@@ -1,0 +1,1 @@
+option 5: A sensor unit, a processor, a radio transceiver, an A/D converter, a memory unit, and a power supply

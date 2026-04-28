@@ -1,0 +1,1 @@
+question: What is the primary application of Aeronautical Ad-hoc Networks in unpopulated areas? option 1: Air traffic control option 2: Upload/Download option 3: Entertainment option 4: Aircraft tracking 

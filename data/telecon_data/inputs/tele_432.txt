@@ -1,0 +1,1 @@
+question: How many frames are there in a multiframe of the 30-channel PCM (pulse code modulation) system? option 1: 16 option 2: 32 option 3: 30 option 4: 8 option 5: 24 

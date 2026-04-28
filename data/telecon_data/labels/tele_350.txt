@@ -1,0 +1,1 @@
+option 1: The number of independent channel gains

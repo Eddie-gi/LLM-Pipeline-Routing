@@ -1,0 +1,1 @@
+question: Which wireless technology is recommended for strategic deconfliction (Level 1) in a sub-urban environment? option 1: RP ADS-B option 2: APRS option 3: LoRa option 4: Wi-Fi SSID option 5: Bluetooth 

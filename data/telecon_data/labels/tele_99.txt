@@ -1,0 +1,1 @@
+option 3: Via the PCF using the URSP in the UE Configuration Update procedure

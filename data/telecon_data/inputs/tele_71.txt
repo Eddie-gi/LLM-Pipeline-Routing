@@ -1,0 +1,1 @@
+question: Which component is responsible for collecting RAN (Radio Access Network) statistics for each slice? option 1: AI Server option 2: Non-RT RIC option 3: O-RAN SC option 4: ONAP option 5: Virtual Event Streaming 

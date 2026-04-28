@@ -1,0 +1,1 @@
+option 2: To avoid and handle NAS signalling congestion for UEs with a back-off timer associated with or without an S-NSSAI

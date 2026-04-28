@@ -1,0 +1,1 @@
+question: What is one potential application of satellite communications in mobile edge computing (MEC)? option 1: Task off-loading from out-of-range mobile users option 2: Improved energy efficiency compared to stand-alone 5G terrestrial option 3: Reduced latency option 4: All of the above option 5: None of the above 

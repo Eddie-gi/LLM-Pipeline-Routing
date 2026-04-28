@@ -1,0 +1,1 @@
+question: What is the role of smart contracts in privacy preservation in blockchain? option 1: To ensure data integrity option 2: To perform encryption option 3: To enforce privacy policies option 4: To facilitate automated execution 

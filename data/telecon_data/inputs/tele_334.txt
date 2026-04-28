@@ -1,0 +1,1 @@
+question: What is the function of the smart controller attached to the IRS (Intelligent reflecting surface)? option 1: To interact with incident signals option 2: To avoid signal energy leakage option 3: To adjust the reflection amplitude/phase shift of each element option 4: To communicate and coordinate with other network components 

@@ -1,0 +1,1 @@
+option 2: The user-RIS and RIS-BS channel links cannot be estimated using conventional pilot-assisted channel estimation methods.

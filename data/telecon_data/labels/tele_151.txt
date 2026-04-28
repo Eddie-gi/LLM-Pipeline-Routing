@@ -1,0 +1,1 @@
+option 3: Identifying malicious nodes, removing them, and taking further action

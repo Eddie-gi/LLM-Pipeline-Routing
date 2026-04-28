@@ -1,0 +1,1 @@
+question: What is the purpose of load-balancing steering mode enhancements? [3GPP Release 17] option 1: To provide better network performance measurements option 2: To prioritize non-3GPP access over 3GPP access in load balancing option 3: To enable the UE and UPF to freely select split percentages for each access type option 4: To enhance the functionality of the AMF 

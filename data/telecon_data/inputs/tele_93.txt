@@ -1,0 +1,1 @@
+question: Which technology allows people to use their senses to interact with virtual entities in remote or virtually created environments? option 1: Internet of Drones (IoD) option 2: Tele-operation (T) option 3: Automotive (A) option 4: Immersive Virtual Reality (IVR) option 5: Haptic IC (HIC) 

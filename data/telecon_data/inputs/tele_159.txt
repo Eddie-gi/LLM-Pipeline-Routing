@@ -1,0 +1,1 @@
+question: Which layer is TCP (Transmission Control Protocol) located in the protocol hierarchy? option 1: Application layer option 2: Transport layer option 3: Network layer option 4: Data-link layer option 5: Physical layer 

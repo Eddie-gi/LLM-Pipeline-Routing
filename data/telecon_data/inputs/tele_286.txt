@@ -1,0 +1,1 @@
+question: What determines the amplitude of the reflected and refracted signals from the IOS (intelligent omni-surface)? option 1: The size of each element option 2: The direction of incidence option 3: The ON/OFF state of the PIN diodes option 4: The predetermined frequency band 

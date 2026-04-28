@@ -1,0 +1,1 @@
+question: What does the abbreviation SMS stand for? option 1: Service Measurement System option 2: Subscriber Management System option 3: Short Message Service option 4: Session Management Server 

@@ -1,0 +1,1 @@
+question: What is the nearest discrete value to 0.37V when using a 0.1-V increment quantization step? option 1: 0.2V option 2: 0.3V option 3: 0.4V option 4: 0.5V option 5: 0.6V 

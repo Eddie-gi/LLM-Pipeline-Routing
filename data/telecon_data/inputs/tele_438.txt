@@ -1,0 +1,1 @@
+question: What is a drawback of using cascaded optical amplifiers in a link? option 1: Noise and signal distortions are continuously amplified option 2: They only work with digital optical signals option 3: They can only amplify one signal at a time option 4: They are not transparent to signal modulation option 5: They have limited bandwidth 

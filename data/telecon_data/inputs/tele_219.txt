@@ -1,0 +1,1 @@
+question: What is the Khatri-Rao product? option 1: The product of two matrices of the same size option 2: The element-wise product of two matrices option 3: The product of a matrix and a vector option 4: The column-wise Kronecker product of two matrices option 5: The row-wise Kronecker product of two matrices 

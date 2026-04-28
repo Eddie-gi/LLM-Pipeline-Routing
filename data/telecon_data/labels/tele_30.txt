@@ -1,0 +1,1 @@
+option 3: Both event triggered and periodic

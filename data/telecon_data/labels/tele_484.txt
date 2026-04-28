@@ -1,0 +1,1 @@
+option 2: It leads to a high-rank channel in the LOS channel matrix.

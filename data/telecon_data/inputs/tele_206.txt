@@ -1,0 +1,1 @@
+question: Which decoding algorithm begins each decoding operation by permuting the received symbols in the descending order of magnitudes of their reliabilities? option 1: Sequential (SQ) option 2: Guessing Random Additive Noise Decoding (GRAND) option 3: Successive Cancellation List (SCL) option 4: Successive Cancellation Stack (SCS) option 5: Ordered-Statistics Decoding (OSD) 

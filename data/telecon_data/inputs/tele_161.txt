@@ -1,0 +1,1 @@
+question: What is the purpose of fraud control in the home environment? [3GPP Release 18] option 1: To collect charging information from serving networks option 2: To notify the customer care centre about charge thresholds option 3: To process charging information in real time option 4: To set limits for accumulated charges 

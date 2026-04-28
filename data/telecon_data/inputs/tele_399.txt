@@ -1,0 +1,1 @@
+question: What is a capability added in the V2X Application Enabler (VAE) layer? [3GPP Release 17] option 1: V2X UE group management option 2: V2X service discovery option 3: Session-oriented services option 4: Network monitoring by the V2X UE option 5: Support for PC5 provisioning 

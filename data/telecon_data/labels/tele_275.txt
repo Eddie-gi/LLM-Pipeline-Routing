@@ -1,0 +1,1 @@
+option 3: A modulation scheme using Gaussian frequency shift keying (GFSK)

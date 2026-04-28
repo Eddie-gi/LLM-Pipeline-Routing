@@ -1,0 +1,1 @@
+question: What is the purpose of FoV (field-of-view) alignment in the data collection process? option 1: To capture data at different rates option 2: To align the different sensors option 3: To monitor the collected data in real-time option 4: To synchronize the data modalities 

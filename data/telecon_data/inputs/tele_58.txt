@@ -1,0 +1,1 @@
+question: Who are the final consumers of the services provided by Telecommunications Service Providers (TSPs) in the NFV (Network Function Virtualization) environment? option 1: Telecommunications Service Providers (TSPs) option 2: VNF Providers (VNFPs) and Server Providers (SPs) option 3: Brokers option 4: Infrastructure Providers (InPs) option 5: End Users 

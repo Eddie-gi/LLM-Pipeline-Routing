@@ -1,0 +1,1 @@
+question: What is one effect of pilot contamination on the UL (Uplink)? option 1: It reduces the non-coherent interference option 2: It reduces the desired signal power option 3: It improves the array gain option 4: It increases the MSE of the channel estimation option 5: It reduces the coherent interference 

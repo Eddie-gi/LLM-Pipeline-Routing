@@ -1,0 +1,1 @@
+option 1: A factor between 0 and 1 that quantifies the ability to react in failure instances

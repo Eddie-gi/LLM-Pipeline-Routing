@@ -1,0 +1,1 @@
+question: What happens to the sum rate as the height of the ABS increases? option 1: The sum rate increases option 2: The sum rate decreases option 3: The sum rate remains constant option 4: The sum rate becomes flatter option 5: The sum rate becomes steeper 

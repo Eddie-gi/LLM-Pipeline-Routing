@@ -1,0 +1,1 @@
+option 2: The authentication and authorization process for the network slice in the 5G system

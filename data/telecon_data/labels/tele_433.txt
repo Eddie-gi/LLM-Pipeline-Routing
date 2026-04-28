@@ -1,0 +1,1 @@
+option 1: The PLMN is added to the forbidden PLMNs list

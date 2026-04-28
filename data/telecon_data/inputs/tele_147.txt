@@ -1,0 +1,1 @@
+question: What is the total resistance of series resistors equal to? option 1: The square of their individual resistances option 2: The product of their individual resistances option 3: The average of their individual resistances option 4: The difference of their individual resistances option 5: The sum of their individual resistances 

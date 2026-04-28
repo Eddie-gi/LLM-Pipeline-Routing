@@ -1,0 +1,1 @@
+option 2: Decoding can be done without reference to future codewords

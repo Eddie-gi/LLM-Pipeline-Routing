@@ -1,0 +1,1 @@
+option 3: Forward link training, reverse link training, convergence, data transmission

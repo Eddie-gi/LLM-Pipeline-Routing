@@ -1,0 +1,1 @@
+option 1: Security refers to unauthorized/malicious access, change, or denial of data or learning models, while privacy refers to the unintentional disclosure of personal information.

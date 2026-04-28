@@ -1,0 +1,1 @@
+question: Which PoS (proof of stake) protocol is an adaptation of the Bitcoin protocol that utilizes an algorithm called follow-the-satoshi (FTS) to involve staking? option 1: Ouroboros Praos option 2: Bentov's PoS option 3: Tendermint option 4: Algorand 

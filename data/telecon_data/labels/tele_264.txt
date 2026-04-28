@@ -1,0 +1,1 @@
+option 1: To connect an Evolved ProSe Remote UE to the 3GPP network via an Evolved ProSe UE-to-Network Relay

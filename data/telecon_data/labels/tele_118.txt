@@ -1,0 +1,1 @@
+option 2: IRS phase noise degrades the achievable rate more severely with a large number of reflecting elements

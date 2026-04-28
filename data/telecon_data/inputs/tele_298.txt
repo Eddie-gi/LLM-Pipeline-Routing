@@ -1,0 +1,1 @@
+question: What is the purpose of the Security Parameter Index (SPI)? option 1: To determine the SA for each IP packet option 2: To construct the packet's AH or ESP header option 3: To generate the Sequence Number field in AH or ESP headers option 4: To prevent replay attacks on inbound AH or ESP packets option 5: To uniquely identify a Security Policy Database entry 

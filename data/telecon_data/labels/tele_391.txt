@@ -1,0 +1,1 @@
+option 2: LMF selection, UE LCS privacy handling

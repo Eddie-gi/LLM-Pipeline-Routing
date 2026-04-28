@@ -1,0 +1,1 @@
+question: What is the purpose of a BLE (Bluetooth Low Energy) beacon? option 1: To connect with other beacons in the area and exchange data option 2: To communicate with a central device and receive instructions option 3: To broadcast a signal to nearby devices and inform them of its presence option 4: To transmit data between different IoT devices 

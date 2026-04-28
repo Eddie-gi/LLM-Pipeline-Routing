@@ -1,0 +1,1 @@
+option 5: The sum of their individual resistances

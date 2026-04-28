@@ -1,0 +1,1 @@
+question: What kind of information is exchanged between DUs (Distributed Unit) and the CU (Central Unit)? option 1: Power control coefficients and scheduling decisions option 2: CSI and beamforming vectors option 3: Mobility management functions and scheduling decisions option 4: User data 

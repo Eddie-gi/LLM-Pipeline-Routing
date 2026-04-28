@@ -1,0 +1,1 @@
+question: What is entity resolution in knowledge graphs? option 1: Identifying which objects in relational data refer to the same entities option 2: Identifying entities in the graph with the highest degree option 3: Grouping entities based on their features and links option 4: Detecting communities or clusters of entities in the graph 

@@ -1,0 +1,1 @@
+question: What information does the consumer of NF load analytics need to indicate in the request? [3GPP Release 18] option 1: SUPI and S-NSSAI option 2: NF Instance IDs and NF Set IDs option 3: Analytics ID and Target of Analytics Reporting option 4: Area of interest and list of analytics subsets option 5: Preferred order of results and Reporting Threshold 

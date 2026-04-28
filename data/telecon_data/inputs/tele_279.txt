@@ -1,0 +1,1 @@
+question: What is the purpose of smart metering? option 1: To increase the utilization of resources option 2: To facilitate efficient consumption of resources option 3: To decrease the global economy option 4: To prioritize sustainable growth option 5: To study privacy issues 

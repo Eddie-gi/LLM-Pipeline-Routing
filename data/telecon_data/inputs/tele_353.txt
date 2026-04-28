@@ -1,0 +1,1 @@
+question: Which component of the architecture facilitates direct communications between devices belonging to the same person? option 1: MBS option 2: SBS option 3: RRH option 4: BBU pools option 5: D2D communications 

@@ -1,0 +1,1 @@
+question: What actions are taken when an AMF fails and is detected by the 5G-AN? [3GPP Release 18] option 1: AMF is deregistered from NRF option 2: AMF is marked as failed in the 5G-AN option 3: NGAP UE-TNLA-binding is released for CM-CONNECTED UE(s) option 4: Backup AMF is selected if available option 5: Notification is sent to peer CP NFs about the AMF failure 

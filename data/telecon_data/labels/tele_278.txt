@@ -1,0 +1,1 @@
+option 3: A task consists of a label space and a decision function.

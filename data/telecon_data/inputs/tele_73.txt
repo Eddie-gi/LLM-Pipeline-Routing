@@ -1,0 +1,1 @@
+question: Which technique has been employed in RIS-enhanced networks to eliminate inter-cell interference without active beamforming and detection? option 1: Spatially-correlated beamforming option 2: Self-interference cancellation option 3: Interference whitening option 4: Coordinated multi-point transmission 

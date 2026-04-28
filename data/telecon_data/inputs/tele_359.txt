@@ -1,0 +1,1 @@
+question: Which architecture relies on one or several APs (Access points) to allocate radio resources and ensure timing among connected devices? option 1: AP-Free Architecture option 2: Self-Coordinated Architecture option 3: AP-Coordinated Architecture option 4: Hybrid Architecture option 5: Partial-Coverage Architecture 

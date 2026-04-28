@@ -1,0 +1,1 @@
+question: What is the purpose of sharing DL (Deep Learning) computation in the edge? option 1: To reduce processing latency option 2: To minimize power consumption option 3: To increase DL model accuracy option 4: To distribute DL tasks across multiple devices 

@@ -1,0 +1,1 @@
+question: Which synchronization sources can UEs (User Equipments) use in NR SL (Sidelink)? option 1: GNSS and gNB/eNB option 2: SynchRef UE and internal clock option 3: GNSS and SynchRef UE option 4: gNB/eNB and internal clock 

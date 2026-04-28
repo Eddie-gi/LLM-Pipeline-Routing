@@ -1,0 +1,1 @@
+question: What is the phenomenon called when the current in an ac circuit flows nearer the surface of the wire? option 1: Skin effect option 2: Resonance option 3: Inductive reactance option 4: Capacitive reactance 

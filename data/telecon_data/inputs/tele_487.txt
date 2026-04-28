@@ -1,0 +1,1 @@
+question: What is the main advantage of edge computing in federated learning scenarios? option 1: Improved data availability option 2: Increased node capabilities option 3: Enhanced communication option 4: Reduced latency 

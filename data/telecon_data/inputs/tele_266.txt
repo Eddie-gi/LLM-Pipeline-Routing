@@ -1,0 +1,1 @@
+question: Which type of machine learning does not require labeled data? option 1: Supervised learning option 2: Unsupervised learning option 3: Semi-supervised learning option 4: Reinforcement learning 

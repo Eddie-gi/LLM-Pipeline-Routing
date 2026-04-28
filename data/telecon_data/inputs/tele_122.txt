@@ -1,0 +1,1 @@
+question: What is the purpose of management frames in 802.11? [IEEE 802.11] option 1: To carry data from station to station option 2: To perform area clearing and carrier-sensing maintenance option 3: To join and leave wireless networks option 4: To indicate whether frames are buffered for a station 

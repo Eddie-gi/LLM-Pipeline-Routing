@@ -1,0 +1,1 @@
+question: What is approximate Bayesian computation (ABC)? option 1: A method that evaluates the full posterior via the likelihood function option 2: A method that uses simulations to approximate the posterior option 3: A method that uses rejection-based sampling option 4: A method that uses summary statistics to compare the simulated data with the observed data 

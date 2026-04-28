@@ -1,0 +1,1 @@
+question: Which of the following options does NWDAF collect input data from? [3GPP Release 18] option 1: OAM option 2: NRF option 3: AMF option 4: All of the above 

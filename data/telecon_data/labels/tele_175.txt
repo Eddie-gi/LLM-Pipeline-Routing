@@ -1,0 +1,1 @@
+option 2: Every row of the transition matrix is a permutation of every other row and all the column sums are equal.

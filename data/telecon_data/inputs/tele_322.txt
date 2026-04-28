@@ -1,0 +1,1 @@
+question: What is a challenge in implementing distributed AI (Artificial Intelligence) on a large volume of decentralized data? option 1: Insufficient storage space option 2: Low computing power option 3: Heterogeneous networks option 4: Lack of data localization 

@@ -1,0 +1,1 @@
+question: Which of the following is a key application scenario for full-duplex communication? option 1: Full-Duplex MIMO Networks option 2: Full-Duplex MIMO OFDMA Networks option 3: Full-Duplex Heterogeneous Networks option 4: All of the above 

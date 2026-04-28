@@ -1,0 +1,1 @@
+option 2: The entropy of the resulting vector always increases.

@@ -1,0 +1,1 @@
+question: Which standard defines the integration of the 5G System into a TSN data network (DN)? [3GPP Release 18] option 1: TS 23.040 option 2: TS 23.273 option 3: TS 23.502 option 4: TS 23.540 option 5: IEEE Std 802.1Q 

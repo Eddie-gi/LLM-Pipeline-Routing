@@ -1,0 +1,1 @@
+question: What is the reference point between the GGSN and a packet data network? [3GPP Release 17] option 1: Mm Reference Point option 2: GMLC - external LCS Client option 3: Le reference point option 4: Gi reference point option 5: Wi reference point 

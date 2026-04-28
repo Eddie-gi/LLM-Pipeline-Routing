@@ -1,0 +1,1 @@
+question: How many US-NSIs must be offered for a V2X (vehicle to everything) communication system with three use cases? option 1: One option 2: Two option 3: Three option 4: Four option 5: Five 

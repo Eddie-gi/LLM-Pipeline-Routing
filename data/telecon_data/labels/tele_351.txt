@@ -1,0 +1,1 @@
+option 1: Identifying which objects in relational data refer to the same entities

@@ -1,0 +1,1 @@
+question: What is the role of indoor-focused Location-Based Services (LBS) in smart buildings? option 1: To improve connectivity of sensors option 2: To provide emergency services option 3: To optimize energy consumption option 4: To integrate automation systems option 5: To track occupants in real-time 

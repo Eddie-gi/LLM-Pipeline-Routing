@@ -1,0 +1,1 @@
+question: What is the convex hull of a set C? option 1: The closure of C option 2: The set of all points in C option 3: The smallest convex set that contains C option 4: The intersection of all convex sets that contain C 

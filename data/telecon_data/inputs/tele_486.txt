@@ -1,0 +1,1 @@
+question: What is the main objective of transceiver beamforming design in MIMO systems? option 1: Deactivate some links to satisfy signal-to-noise ratio requirements option 2: Ensure fairness among users option 3: Minimize power expenditure in the system option 4: Maximize the overall system throughput option 5: Relax the quality of service requirements 

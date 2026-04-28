@@ -1,0 +1,1 @@
+question: Which emerging IoT (Internet of Things) technology operates in the sub-gigahertz license-exempt spectrum and is designed for extended range applications? option 1: SigFox option 2: LoRa option 3: IEEE 802.11ah option 4: Weightless-N option 5: Weightless-W 

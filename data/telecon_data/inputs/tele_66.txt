@@ -1,0 +1,1 @@
+question: How can power saving be enabled during active-time? [3GPP Release 18] option 1: By enabling PDCCH monitoring option 2: By eDRX configuration option 3: By adapting the minimum scheduling offsets option 4: By cross-slot scheduling 

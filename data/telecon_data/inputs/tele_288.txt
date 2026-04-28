@@ -1,0 +1,1 @@
+question: What are the two main groups of logical channels in the MAC sublayer? [3GPP Release 17] option 1: Broadcast channels and Dedicated channels option 2: Control channels and Traffic channels option 3: Physical channels and Transport channels option 4: Scheduling channels and Error correction channels option 5: Primary channels and Secondary channels 

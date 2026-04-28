@@ -1,0 +1,1 @@
+question: Which technologies are commonly used for unlicensed wearable communications? option 1: H-CRAN and SDN option 2: WLAN, Bluetooth, and IEEE 802.15.4 option 3: MBS, SBS, and RRH option 4: BBU pools and data servers option 5: MEC and D2D communications 

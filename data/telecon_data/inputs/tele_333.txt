@@ -1,0 +1,1 @@
+question: What is the objective of Holographic MIMO Surfaces (HMIMOS)? option 1: Low fabrication and operational costs option 2: High spectral efficiency option 3: Smart control of the wireless environment option 4: Massive MIMO systems option 5: Transformative wireless environment 

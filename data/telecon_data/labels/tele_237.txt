@@ -1,0 +1,1 @@
+option 3: As random variables that encode uncertainty about their true values

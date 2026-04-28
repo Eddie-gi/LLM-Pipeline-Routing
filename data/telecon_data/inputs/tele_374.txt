@@ -1,0 +1,1 @@
+question: What is the function of the window mechanism in TCP? [TCP/IP] option 1: To reserve buffer space option 2: To guarantee complete reliability option 3: To acknowledge the receipt of data option 4: To set up a connection option 5: To organize the data stream 

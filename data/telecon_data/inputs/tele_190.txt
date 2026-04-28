@@ -1,0 +1,1 @@
+question: What is the principle of Indexed Modulation (IM)? option 1: Fully decode interference option 2: Treat interference as noise option 3: Partial decoding of interference option 4: No interference decoding required 

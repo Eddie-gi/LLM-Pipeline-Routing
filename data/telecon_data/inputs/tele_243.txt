@@ -1,0 +1,1 @@
+question: Which of the following is not a benefit of applying deep learning to mobile and wireless networking? option 1: Automatic feature extraction option 2: Efficient utilization of big data option 3: Handling large amounts of unlabeled data option 4: Reduced computational and memory requirements option 5: Higher interpretability 

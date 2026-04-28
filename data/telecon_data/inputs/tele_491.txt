@@ -1,0 +1,1 @@
+question: What technique is commonly used to solve the problems associated with a quiet guard time in OFDM? [IEEE 802.11] option 1: Padding option 2: Convolution coding option 3: Windowing option 4: Cyclic extension 

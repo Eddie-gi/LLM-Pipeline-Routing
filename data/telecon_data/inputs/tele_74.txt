@@ -1,0 +1,1 @@
+question: What is Faraday's law of electromagnetic induction? option 1: An electric field induces a magnetic field option 2: A magnetic field induces an electric field option 3: A time-dependent electric field induces a magnetic field option 4: A time-dependent magnetic field induces an electric field option 5: An electric current induces a magnetic field 

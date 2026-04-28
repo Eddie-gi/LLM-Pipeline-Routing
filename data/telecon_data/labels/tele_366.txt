@@ -1,0 +1,1 @@
+option 2: The part of the special subframe designated for downlink transmission.

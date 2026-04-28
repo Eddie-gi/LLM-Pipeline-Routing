@@ -1,0 +1,1 @@
+question: What does the Timing Delta MAC CE indicate to an IAB-node? [3GPP Release 17] option 1: Time difference between DU transmission and IAB-MT reception option 2: Time difference between IAB-MT reception and transmission option 3: Timing advance offset value for a serving cell option 4: Timing Case Indication for a serving cell 

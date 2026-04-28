@@ -1,0 +1,1 @@
+question: What physical channel is used for sidelink transmitted data itself? [3GPP Release 17] option 1: PSCCH option 2: PSBCH option 3: PSFCH option 4: PSSCH option 5: Synchronization signal 

@@ -1,0 +1,1 @@
+question: What is the polarization slant angle for a purely vertically polarized antenna element? [3GPP Release 18] option 1: 90 degrees option 2: 180 degrees option 3: 45 degrees option 4: 0 degrees option 5: 60 degrees 

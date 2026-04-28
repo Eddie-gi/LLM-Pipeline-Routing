@@ -1,0 +1,1 @@
+question: Which of the following receiver structures splits the received signal into two streams, one for energy harvesting and the other for information decoding? option 1: Time switching (TS) receiver option 2: Power splitting (PS) receiver option 3: Integrated receiver (IntRx) option 4: Antenna switching (AS) option 5: Broadcast receiver 

@@ -1,0 +1,1 @@
+question: Which ILP (Inductive Logic Programming) system attempts to learn rules from relational data via inverse entailment? option 1: FOIL option 2: AMIE option 3: ALEPH option 4: ER-MLP 

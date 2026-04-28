@@ -1,0 +1,1 @@
+question: What is the purpose of compression in companding? option 1: To reduce the bandwidth option 2: To increase the dynamic range option 3: To reduce the quantizing distortion option 4: To increase the quantizing distortion option 5: To reduce the dynamic range 

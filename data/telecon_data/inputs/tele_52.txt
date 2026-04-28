@@ -1,0 +1,1 @@
+question: What are the content types defined in TLS (Transport Layer Security) Record Protocol? option 1: Data, Alert, Handshake option 2: Change Cipher Spec, Alert, Handshake option 3: Change Cipher Spec, Alert, Handshake, Application Data option 4: Change Cipher Spec, Record, Handshake option 5: Data, Alert 

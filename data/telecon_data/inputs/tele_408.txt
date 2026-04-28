@@ -1,0 +1,1 @@
+question: What is the key principle underlying the organization of network functionalities in a stack of layers? option 1: Separation of concerns option 2: Interoperability option 3: Efficiency option 4: Modularity 

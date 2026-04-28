@@ -1,0 +1,1 @@
+question: What does network diagnostics aim to achieve? [3GPP Release 17] option 1: Early detection of faults option 2: Evaluation of impact on the service/network option 3: Clear explanations of failures option 4: Suggestion of corrective actions option 5: All of the above 

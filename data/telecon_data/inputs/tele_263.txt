@@ -1,0 +1,1 @@
+question: What type of computing services can the data center-enabled HAP (High Altitude Platform) offer? option 1: Internet of Things (IoT) applications option 2: Artificial intelligence (AI) systems option 3: Intelligent transportation systems option 4: All of the above 

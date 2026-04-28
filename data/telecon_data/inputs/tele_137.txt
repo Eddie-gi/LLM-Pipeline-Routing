@@ -1,0 +1,1 @@
+question: Which method models a decision making problem, where an agent is faced with a dilemma of K different actions and receives a reward relying on a stationary probability distribution associated with its decision? option 1: Markov decision process option 2: Temporal-difference learning option 3: Multi-armed bandit option 4: POMDP 

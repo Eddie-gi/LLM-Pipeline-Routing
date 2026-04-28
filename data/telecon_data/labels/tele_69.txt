@@ -1,0 +1,1 @@
+option 1: Beam steering controls the relative angle of the transmitted signal, while beam focusing also controls the depth along the direction of propagation.

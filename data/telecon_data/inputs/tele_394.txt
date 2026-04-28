@@ -1,0 +1,1 @@
+question: Which wireless charging standard specifies a communication protocol using Bluetooth Low Energy (BLE)? option 1: A4WP option 2: Powermat option 3: Energizer option 4: Qi option 5: RAVPower 

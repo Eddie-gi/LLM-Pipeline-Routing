@@ -1,0 +1,1 @@
+question: What is the required bit rate to guarantee a real-like view in VR (Virtual Reality) with each colored pixel stored in 36 bits and a maximum video compression rate of 1:600? option 1: 100 kbps option 2: 1 Mbps option 3: 10 Mbps option 4: 100 Mbps option 5: 1 Gbps 

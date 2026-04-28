@@ -1,0 +1,1 @@
+question: What is the default value for the sl-MaxCID-r16 parameter in SidelinkPreconfigNR-r16? [3GPP Release 17] option 1: 1 option 2: 15 option 3: 1000 option 4: 16383 

@@ -1,0 +1,1 @@
+question: What is the definition of UICC? option 1: A physically secure device used for accessing services provided by mobile networks option 2: A radio interface between UTRAN and the User Equipment option 3: A data bearer of 144 kbps option 4: A high quality speech teleservice option 5: A capability to forward a speech call 

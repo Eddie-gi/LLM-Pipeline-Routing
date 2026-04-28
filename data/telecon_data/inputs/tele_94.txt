@@ -1,0 +1,1 @@
+question: Which traffic direction requires higher data rate in cellular-connected UAV (Unmanned Aerial Vehicle) communications? option 1: Symmetrical option 2: Downlink option 3: Bidirectional option 4: Nonexistent option 5: Uplink 

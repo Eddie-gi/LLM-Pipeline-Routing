@@ -1,0 +1,1 @@
+question: What is the purpose of the UE Capability Retrieval framework? [3GPP Release 18] option 1: To report the UE's radio access capabilities to the network option 2: To request specific capabilities from the network option 3: To optimize the UE's power consumption option 4: To enable sidelink communication option 5: All of the above 

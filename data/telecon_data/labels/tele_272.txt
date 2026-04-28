@@ -1,0 +1,1 @@
+option 1: Providing GDBs with the current channel use information for all BSSs and IBSSs

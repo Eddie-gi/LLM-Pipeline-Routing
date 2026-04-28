@@ -1,0 +1,1 @@
+option 2: To protect the privacy of participants by sharing only the parameters of the trained model

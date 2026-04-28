@@ -1,0 +1,1 @@
+option 2: A theorem that provides the minimum distortion achievable in encoding a Gaussian stationary input signal.

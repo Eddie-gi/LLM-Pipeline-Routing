@@ -1,0 +1,1 @@
+option 2: Sent separately as MLME-BEACON-NOTIFY.indication primitives

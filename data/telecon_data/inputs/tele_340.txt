@@ -1,0 +1,1 @@
+question: What type of applications does IEEE 802.11ad support? option 1: High-speed Internet access option 2: Streaming content option 3: Uncompressed high-definition multimedia transmissions option 4: All of the above 

@@ -1,0 +1,1 @@
+question: What is the effect of dispersion in optical fiber transmission? option 1: Improvement in digital modulation option 2: Decrease in signal attenuation option 3: Increase in signal-to-noise ratio option 4: Reduction in intersymbol interference option 5: Broadening of the transmitted light pulses 

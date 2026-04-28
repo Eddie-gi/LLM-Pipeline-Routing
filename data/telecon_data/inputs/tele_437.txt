@@ -1,0 +1,1 @@
+question: What is the purpose of interference management algorithms in underlaying D2D (Device-to-Device) communications? option 1: To increase the distance between D2D users option 2: To increase the capacity of cellular networks option 3: To decrease the transmission power of cellular users option 4: To limit D2D transmission power 

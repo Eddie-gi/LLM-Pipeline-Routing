@@ -1,0 +1,1 @@
+question: What factors determine the safety levels in the standard? [IEEE C95.1] option 1: Biological and dosimetry uncertainties option 2: Frequency and duration of exposure option 3: Variability of response thresholds option 4: Safety factors and their rationales option 5: All of the above 

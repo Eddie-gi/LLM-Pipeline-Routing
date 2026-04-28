@@ -1,0 +1,1 @@
+option 5: In DCS, signals from multiple nodes exhibit inter-correlation

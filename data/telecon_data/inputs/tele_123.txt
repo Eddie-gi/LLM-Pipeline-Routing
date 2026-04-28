@@ -1,0 +1,1 @@
+question: What is the purpose of integrity protection in NR connected to 5GC security? [3GPP Release 18] option 1: Provides user data confidentiality option 2: Provides user data integrity protection option 3: Provides signaling data confidentiality option 4: Provides signaling data integrity protection option 5: Ensures physical protection of data handling 

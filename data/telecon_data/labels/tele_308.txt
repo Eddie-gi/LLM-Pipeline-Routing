@@ -1,0 +1,1 @@
+option 2: If there are no positive generalized eigenvalues in the pencil formed by the product of the channel matrices, the secrecy capacity is zero.

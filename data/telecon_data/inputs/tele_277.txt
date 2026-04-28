@@ -1,0 +1,1 @@
+question: Which PHY operates in the 780 MHz band? [IEEE 802.15.4] option 1: GFSK PHY option 2: BPSK PHY option 3: CSS PHY option 4: HRP UWB PHY option 5: O-QPSK PHY 

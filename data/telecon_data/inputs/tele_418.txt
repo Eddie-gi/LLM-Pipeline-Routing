@@ -1,0 +1,1 @@
+question: What is the purpose of an auto-encoder in deep learning? option 1: To maximize the cumulative reward through a series of actions option 2: To learn the feature space of the data set option 3: To transform the input to a hidden code option 4: To reconstruct the input from the hidden code 

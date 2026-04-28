@@ -1,0 +1,1 @@
+question: What is the key advantage of deep learning over traditional machine learning? option 1: Ability to handle unlabeled data option 2: Better performance with small datasets option 3: Higher interpretability option 4: Lower computational requirements option 5: Automatic feature extraction 

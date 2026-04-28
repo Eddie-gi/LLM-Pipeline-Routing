@@ -1,0 +1,1 @@
+question: What does GFMA stand for? option 1: Guaranteed-Fast Multiple Access option 2: Grant-Free Multiple Access option 3: Grouped-Frequency Multiple Access option 4: GFMA doesn't stand for anything option 5: General-Flexible Multiple Access 

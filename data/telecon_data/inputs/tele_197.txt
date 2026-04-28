@@ -1,0 +1,1 @@
+question: Which wireless standard uses the WEP (wired equivalent privacy) protocol as a security measure? option 1: Bluetooth option 2: Wi-Fi option 3: WiMAX option 4: LTE option 5: None of the above 

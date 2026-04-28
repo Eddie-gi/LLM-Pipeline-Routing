@@ -1,0 +1,1 @@
+question: Which interface is used to transfer OAM traffic between the RN and the OAM system? [3GPP Release 17] option 1: S1 interface option 2: X2 interface option 3: Un interface option 4: MME interface option 5: OAM interface 

@@ -1,0 +1,1 @@
+question: Which type of routing protocol takes into account the information available from different layers and provides a solution to several networking issues? option 1: Location-based routing option 2: Source-based routing option 3: Hop-by-hop routing option 4: Cross-layer routing option 5: Clustered routing 

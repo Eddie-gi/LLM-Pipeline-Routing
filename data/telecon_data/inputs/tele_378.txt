@@ -1,0 +1,1 @@
+question: What is the purpose of a DHCP Relay Agent? [TCP/IP] option 1: To convert broadcast messages into unicast messages option 2: To send error messages in IP communication option 3: To assign IP addresses and subnet masks option 4: To retrieve data from a DNS server option 5: To automate network diagnostics 

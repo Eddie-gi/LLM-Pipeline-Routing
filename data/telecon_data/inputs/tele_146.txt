@@ -1,0 +1,1 @@
+question: What kind of system is the wireless channel in wireless communication? option 1: Linear time-invariant system option 2: Nonlinear time-invariant system option 3: Linear time-varying system option 4: Nonlinear time-varying system option 5: Discrete-time system 

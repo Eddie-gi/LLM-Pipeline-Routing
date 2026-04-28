@@ -1,0 +1,1 @@
+question: What is the coverage area of a low-earth orbit (LEO) satellite?  option 1: More than 1,000 km option 2: More than several hundred km option 3: More than 50 km option 4: 20 km option 5: Approximately 5 km 

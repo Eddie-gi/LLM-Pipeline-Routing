@@ -1,0 +1,1 @@
+option 3: Linear processing achieves lower SE than non-linear processing

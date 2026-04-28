@@ -1,0 +1,1 @@
+question: What is the purpose of Msg4 in the PRACH (Physical Random Access Channel) procedure? option 1: Uplink timing synchronization option 2: Transmitting a meaningful uplink message option 3: Contention resolution option 4: Resource allocation 

@@ -1,0 +1,1 @@
+option 2: By taking a linear combination of sensor locations weighted by a function of their RSS measurements

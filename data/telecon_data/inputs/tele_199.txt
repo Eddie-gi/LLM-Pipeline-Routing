@@ -1,0 +1,1 @@
+question: What is the purpose of the LTE-U Discovery Signal (LDS)? option 1: To transmit full LTE frames option 2: To synchronize LTE-U SC measurements option 3: To detect interference in the channel option 4: To adjust the duty cycle of CSAT 

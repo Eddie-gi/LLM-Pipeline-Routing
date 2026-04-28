@@ -1,0 +1,1 @@
+question: Which channel code has been selected for the enhanced mobile broadband (eMBB) data channel? option 1: Turbo option 2: Polar option 3: TB-CC option 4: LDPC 

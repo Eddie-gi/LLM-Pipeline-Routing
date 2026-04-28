@@ -1,0 +1,1 @@
+question: What are dApps? option 1: Digital Applications option 2: Decentralized Applications option 3: Distributed Applications option 4: Data Applications option 5: Dynamic Applications 

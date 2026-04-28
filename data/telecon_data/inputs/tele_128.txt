@@ -1,0 +1,1 @@
+question: What is the role of the copper plate in the hardware architecture of the IRS (Intelligent reflecting surface)? option 1: To interact with incident signals option 2: To avoid signal energy leakage option 3: To adjust the reflection amplitude/phase shift of each element option 4: To serve as a gateway for low-rate information exchange 

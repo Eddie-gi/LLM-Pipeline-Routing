@@ -1,0 +1,1 @@
+question: What is the purpose of the self-contained slot structure in 5G NR? option 1: To support both UL and DL directions within a single slot option 2: To reduce the waiting time in TDD systems option 3: To improve the reliability of control messages option 4: Both option 1 and option 2 

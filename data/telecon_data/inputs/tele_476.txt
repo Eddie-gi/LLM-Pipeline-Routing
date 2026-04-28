@@ -1,0 +1,1 @@
+question: What is the motion-to-photon latency range required to support VR environments with low motion-to-photon capabilities? [3GPP Release 17] option 1: 1 ms to 5 ms option 2: 5 ms to 10 ms option 3: 7 ms to 15 ms option 4: 15 ms to 20 ms 

@@ -1,0 +1,1 @@
+option 3: Both the image with occlusion and the sequence of received power of RF signals

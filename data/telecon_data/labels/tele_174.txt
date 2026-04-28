@@ -1,0 +1,1 @@
+option 2: The network will retry the call setup over CS domain

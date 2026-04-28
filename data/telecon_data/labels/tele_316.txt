@@ -1,0 +1,1 @@
+option 1: Hard combining, soft combining, and hybrid combining

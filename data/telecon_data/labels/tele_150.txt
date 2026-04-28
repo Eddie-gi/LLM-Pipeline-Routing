@@ -1,0 +1,1 @@
+option 2: The number of group addressed MSDUs received during the measurement duration.

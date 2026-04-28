@@ -1,0 +1,1 @@
+question: Which network function is responsible for network exposure? [3GPP Release 18] option 1: AMF option 2: SMF option 3: NRF option 4: NEF option 5: UDM 

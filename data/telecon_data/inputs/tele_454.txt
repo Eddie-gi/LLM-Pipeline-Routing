@@ -1,0 +1,1 @@
+question: Which technique is used to synchronize the signals received at the users and reduce the signal delay spread in cell-free communication? option 1: Markov decision process (MDP) option 2: Joint scheduling option 3: Deep neural networks (DNNs) option 4: Queueing theory option 5: Cyclic prefix 

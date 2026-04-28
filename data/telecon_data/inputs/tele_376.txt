@@ -1,0 +1,1 @@
+question: What is the primary purpose of channel coding in communication systems? option 1: To increase the bandwidth of the channel option 2: To reduce the power consumption of the transmitter option 3: To correct errors that occur during transmission option 4: To improve the modulation scheme 

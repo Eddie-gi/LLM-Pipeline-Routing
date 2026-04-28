@@ -1,0 +1,1 @@
+question: Which regulations does LR-FHSS comply with? option 1: ETSI, FCC, and ARIB option 2: LoRa-E alliance option 3: European Telecommunications Standards Institute (ETSI) option 4: Federal Communications Commission (FCC) option 5: Association of Radio Industries and Businesses (ARIB) 

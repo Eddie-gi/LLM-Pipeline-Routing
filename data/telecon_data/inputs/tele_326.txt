@@ -1,0 +1,1 @@
+question: What determines the processing for an inbound packet in IPsec? option 1: The Security Parameters Index (SPI). option 2: The Sequence Number. option 3: The Next Header field. option 4: The PAD Length. 

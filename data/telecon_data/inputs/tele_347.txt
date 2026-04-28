@@ -1,0 +1,1 @@
+question: How many orthogonal pilot signals are generally required to estimate the channel response from two transmitting antennas? option 1: One option 2: Two option 3: Three option 4: Four option 5: Five 

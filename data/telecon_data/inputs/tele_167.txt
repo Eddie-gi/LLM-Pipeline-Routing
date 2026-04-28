@@ -1,0 +1,1 @@
+question: What is the main benefit of the extended sensors use case in NR-V2X? option 1: Improved road safety option 2: Increased traffic efficiency option 3: Enhanced perception, planning, and control in road users option 4: Better collision avoidance option 5: None of the above 

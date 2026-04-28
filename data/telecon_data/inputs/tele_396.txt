@@ -1,0 +1,1 @@
+question: What are the two vital metrics for evaluating detection performance in spectrum sensing? option 1: Probability of false alarm and probability of miss detection option 2: Probability of detection and probability of interference option 3: Energy detection threshold and sensing accuracy option 4: Signal-to-noise ratio and channel gain 

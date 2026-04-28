@@ -1,0 +1,1 @@
+option 1: All elements have unit magnitude, and all columns are mutually orthogonal

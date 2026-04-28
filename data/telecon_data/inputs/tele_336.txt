@@ -1,0 +1,1 @@
+question: What is the equivalent wavelength at a frequency of 38.71GHz? option 1: 3×108m/sec option 2: 0.00775m option 3: 7.75mm option 4: 600m option 5: 38.710,000,000m 

@@ -1,0 +1,1 @@
+question: Which event notification is used to monitor the movement of candidate UEs in/out of the monitoring area? [3GPP Release 18] option 1: Namf_EventExposure_Subscribe service option 2: Npcf_PolicyAuthorization_Create request option 3: Nnef_AFsessionWithQoS_Revoke option 4: Namf_EventExposure_Notify service option 5: PDU session modification 

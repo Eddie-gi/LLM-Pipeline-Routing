@@ -1,0 +1,1 @@
+question: Which scheme is more suitable for dynamic spectrum access and cognitive radio systems due to its low spectral leakage property? option 1: Cyclic Prefix-OFDM option 2: Staggered multitone option 3: Filtered multitone option 4: Orthogonal Frequency Division Multiplexing (OFDM) 

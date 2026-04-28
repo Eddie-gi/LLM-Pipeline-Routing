@@ -1,0 +1,1 @@
+question: What is the advantage of optical front-hauls in massively distributed access systems? option 1: Large bandwidth option 2: High data rates option 3: Reliability option 4: Security option 5: All of the above 

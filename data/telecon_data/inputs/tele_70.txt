@@ -1,0 +1,1 @@
+question: What types of data can dApps access in real time? option 1: I/Q samples option 2: Data packets option 3: Handover-related mobility information option 4: Dual-connectivity between 5G NR and 4G option 5: All of the above 

@@ -1,0 +1,1 @@
+question: What are the characteristics of the interfering signals for E-UTRA SAN? [3GPP Release 18] option 1: A PDSCH containing data and reference symbols option 2: A PUSCH containing data and reference symbols option 3: A NPUSCH containing data and reference symbols option 4: A PRACH containing data and reference symbols 

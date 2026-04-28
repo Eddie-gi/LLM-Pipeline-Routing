@@ -1,0 +1,1 @@
+question: What is the purpose of a continual learning model? option 1: To learn multiple tasks simultaneously option 2: To learn new tasks without forgetting old ones option 3: To memorize all training samples option 4: To improve the overall performance of old tasks 

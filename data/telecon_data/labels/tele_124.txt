@@ -1,0 +1,1 @@
+option 2: WLAN, Bluetooth, and IEEE 802.15.4

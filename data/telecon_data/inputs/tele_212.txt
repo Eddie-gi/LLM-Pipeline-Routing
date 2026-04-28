@@ -1,0 +1,1 @@
+question: What is required for ecosystem diversification in the RAN industry?  option 1: Disaggregated RAN architecture option 2: General-Purpose Processor (GPP) based hardware option 3: Open fronthaul (OFH) interface option 4: Diverse spectrum holding of low, mid, and high bands option 5: Service Management and Orchestration Framework 

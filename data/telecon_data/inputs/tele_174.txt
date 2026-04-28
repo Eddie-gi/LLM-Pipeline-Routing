@@ -1,0 +1,1 @@
+question: What action does the network take if a QCI-1 bearer setup request for VoLTE is rejected during a terminating session? [3GPP Release 14] option 1: The call will be dropped option 2: The network will retry the call setup over CS domain option 3: The call will fallback to 2/3G in weak coverage areas option 4: The network will initiate a handover to a stronger LTE signal 

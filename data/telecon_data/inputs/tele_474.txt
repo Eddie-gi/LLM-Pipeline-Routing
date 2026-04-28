@@ -1,0 +1,1 @@
+question: Which type of retrial policy has a constant retrial rate? option 1: Classical retrial policy option 2: Constant retrial policy option 3: Both policies have a constant retrial rate option 4: Neither policy has a constant retrial rate 

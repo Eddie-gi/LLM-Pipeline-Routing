@@ -1,0 +1,1 @@
+question: What is the procedure called by which a UE acquires time and frequency synchronization with a cell and detects the Cell ID of that cell? [3GPP Release 17] option 1: Power control option 2: Cell search option 3: Link adaptation option 4: Coordinated Multi-Point transmission option 5: Wake-up signal 

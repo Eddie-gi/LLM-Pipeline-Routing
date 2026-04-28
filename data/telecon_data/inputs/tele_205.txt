@@ -1,0 +1,1 @@
+question: Research Papers option 1: Backpropagation using spikes option 2: Local learning rules option 3: Shadow training option 4: Backpropagation using spike times 

@@ -1,0 +1,1 @@
+question: What are the high-level features specified for 5G Location Services? [3GPP Release 16] option 1: LCS Quality of services option 2: LMF selection, UE LCS privacy handling option 3: LCS Quality of services, LMF selection option 4: UE LCS privacy handling, LMF selection option 5: UE LCS privacy handling, LCS Quality of services 

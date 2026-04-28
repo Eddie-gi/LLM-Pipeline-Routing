@@ -1,0 +1,1 @@
+question: When are reassociations initiated in 802.11 networks? [IEEE 802.11] option 1: By the access point option 2: When signal conditions indicate a different association would be beneficial option 3: During the station shutdown process option 4: When frames are delivered to mobile stations option 5: When stations leave the network without disassociating 

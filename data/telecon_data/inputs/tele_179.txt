@@ -1,0 +1,1 @@
+question: What is the target transmission range for the THz on-off keying mode? option 1: Several kilometers option 2: Few meters option 3: Tens of meters option 4: Hundreds of meters 

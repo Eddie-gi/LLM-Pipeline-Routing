@@ -1,0 +1,1 @@
+option 2: To enable local traffic routing in the visited PLMN

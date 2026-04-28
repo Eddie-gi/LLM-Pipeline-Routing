@@ -1,0 +1,1 @@
+question: What is the amount of diversity in a MIMO channel? option 1: The number of independent channel gains option 2: The angular spreads of the scatterers at the transmitter and receiver option 3: The degree of connectivity between transmit and receive angles option 4: The number of non-zero entries in Ha option 5: The number of scatterers in the environment 

@@ -1,0 +1,1 @@
+option 2: When CN based mobile terminating (MT) communication handling is requested for a UE with eDRX cycle value longer than 10.24 seconds for RRC_INACTIVE state

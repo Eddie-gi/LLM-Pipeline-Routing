@@ -1,0 +1,1 @@
+question: Which specification defines the Nchf_SpendingLimitControl service? [3GPP Release 18] option 1: TS 23.203 option 2: TS 32.27x option 3: TS 23.502 option 4: TS 23.272 

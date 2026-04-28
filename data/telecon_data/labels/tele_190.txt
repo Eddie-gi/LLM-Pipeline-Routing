@@ -1,0 +1,1 @@
+option 4: No interference decoding required

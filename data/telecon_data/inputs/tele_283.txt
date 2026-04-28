@@ -1,0 +1,1 @@
+question: How is a 5G VN group identified? [3GPP Release 18] option 1: By the UE's GPSI option 2: By the AF using the External Group ID option 3: By the NEF using the Internal Group ID option 4: By the UDM using the Internal Group ID option 5: By the PCF using the External Group ID 

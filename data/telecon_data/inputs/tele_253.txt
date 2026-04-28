@@ -1,0 +1,1 @@
+question: How does the NWDAF collect input data for PDU Session traffic analytics? [3GPP Release 18] option 1: Directly from the UPF using the 'UserDataUsageMeasures' event exposure event. option 2: Indirectly via the SMF. option 3: Both options 1 and 2. option 4: None of the above. 

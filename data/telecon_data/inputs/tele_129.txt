@@ -1,0 +1,1 @@
+question: Which encoding format stores all NZs (non-zeros) in a tensor along with a flag indicating whether each element is NZ or not? option 1: COO option 2: RLC option 3: Bitmap option 4: CSR 

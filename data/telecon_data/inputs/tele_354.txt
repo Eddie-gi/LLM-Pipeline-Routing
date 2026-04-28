@@ -1,0 +1,1 @@
+question: What are some examples of applications that can be provided based on mobile users' individual and social features? option 1: Resource reservation in handoff using location prediction option 2: Context-aware personal wireless service adaptation option 3: Mobility-based routing and paging control option 4: All of the above option 5: None of the above 

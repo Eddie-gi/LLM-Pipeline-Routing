@@ -1,0 +1,1 @@
+question: Which frequency bands are expected to be used for 6G networks to cope with the aggressive needs required in massive access? option 1: Bluetooth bands option 2: WiFi bands option 3: GSM bands option 4: Terahertz (THz) bands option 5: 5G bands 

@@ -1,0 +1,1 @@
+question: Which type of fiber exhibits the greatest dispersion of a transmitted light pulse? option 1: Multimode step index fiber option 2: Multimode graded index fiber option 3: Single-mode step index fiber 

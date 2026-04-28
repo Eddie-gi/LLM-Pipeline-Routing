@@ -1,0 +1,1 @@
+question: What is the main objective of Federated Learning (FL)? option 1: To share participants' actual data with each other option 2: To protect the privacy of participants by sharing only the parameters of the trained model option 3: To train the model on a centralized server 

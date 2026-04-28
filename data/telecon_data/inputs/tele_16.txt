@@ -1,0 +1,1 @@
+question: How are Mobile Terminated Voice calls delivered for MEs capable of offering voice service on CS and IMS? [3GPP Release 18] option 1: Based on the network conditions option 2: Based on the user's preferences option 3: Based on the IMS registration status option 4: Based on the CS attachment status option 5: Based on the domain specified by the Home operator policy 

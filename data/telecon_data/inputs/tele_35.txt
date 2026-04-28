@@ -1,0 +1,1 @@
+question: What is the best caching pdf for random caching strategy? option 1: Uniform distribution option 2: Zipf distribution option 3: Normal distribution option 4: Exponential distribution 

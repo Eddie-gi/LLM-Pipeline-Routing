@@ -1,0 +1,1 @@
+question: What is the purpose of guard bands in frequency allocation? [IEEE 802.11] option 1: To allocate frequencies for unlicensed use option 2: To restrict the use of radio signals in certain areas option 3: To prevent interference between licensed transmission bands option 4: To regulate the power usage of radio transmissions 

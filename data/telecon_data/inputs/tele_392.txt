@@ -1,0 +1,1 @@
+question: What is the main idea behind the Clean method? option 1: To reconstruct images with different scales. option 2: To interpolate missing Fourier coefficients. option 3: To minimize the least squares difference between the model image and the data. option 4: To iteratively search for the brightest point sources in the data and update the model image. 

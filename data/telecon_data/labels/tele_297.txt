@@ -1,0 +1,1 @@
+option 2: A random key that is as long as the message and is used only once

@@ -1,0 +1,1 @@
+question: Which approach for slice isolation guarantees full resource isolation but may lead to over-provisioning? option 1: Resource multiplexing option 2: Dynamic slicing option 3: Resource sharing option 4: Provisioning techniques option 5: Static slicing 

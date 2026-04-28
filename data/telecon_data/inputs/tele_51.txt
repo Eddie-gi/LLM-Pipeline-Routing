@@ -1,0 +1,1 @@
+question: Which method exploits the sparsity of source signals and/or the mixing matrix to recover latent source signals? option 1: Independent Component Analysis (ICA) option 2: Sparse Component Analysis (SCA) option 3: Nonnegative Matrix Factorization (NMF) option 4: Principal Component Analysis (PCA) option 5: Smooth Component Analysis (SmCA) 

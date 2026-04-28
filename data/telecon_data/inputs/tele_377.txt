@@ -1,0 +1,1 @@
+question: Which multicast routing algorithm includes a recovery mechanism and increases transmission power to recruit more neighbors? option 1: Unicast Based Routing (UBR) option 2: Static Tree-Based Routing (STBR) option 3: Dynamic Tree-Based Routing (DTBR) option 4: Group-Based Routing (GBR) option 5: Context Aware Multicast Routing (CAMR) 

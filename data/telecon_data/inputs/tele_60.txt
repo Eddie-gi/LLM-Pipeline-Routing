@@ -1,0 +1,1 @@
+question: What is the purpose of collaborative caching in mobile edge computing? option 1: To reduce energy consumption option 2: To improve data privacy option 3: To increase the storage capacity of edge devices option 4: To distribute popular data among end users option 5: To enhance communication efficiency 

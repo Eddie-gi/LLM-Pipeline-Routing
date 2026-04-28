@@ -1,0 +1,1 @@
+option 1: LQR assumes no noise and full state observation, while LQG considers input and measurement noise and partial state observation.

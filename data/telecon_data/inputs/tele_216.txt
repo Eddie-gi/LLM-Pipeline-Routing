@@ -1,0 +1,1 @@
+question: What is the advantage of VLANs in terms of additional security? [IEEE 802.3] option 1: Broadcast messages are limited option 2: Devices can communicate with devices in other VLANs option 3: Devices can only communicate within the same VLAN option 4: Network load is restricted 

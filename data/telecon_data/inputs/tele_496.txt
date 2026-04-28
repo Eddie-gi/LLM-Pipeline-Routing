@@ -1,0 +1,1 @@
+question: What is the main goal of energy beamforming optimization? option 1: Optimization of rate-energy tradeoff option 2: Minimization of total transmit power option 3: Maximization of system sum-throughput option 4: Maximization of system energy efficiency option 5: Maximization of total harvested energy 

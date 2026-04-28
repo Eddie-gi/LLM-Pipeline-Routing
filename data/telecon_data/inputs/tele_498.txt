@@ -1,0 +1,1 @@
+question: What is the purpose of ML algorithms in optical amplifiers control? option 1: To perform optimum symbol detection option 2: To estimate the operating point of EDFAs option 3: To predict modulation formats option 4: To mitigate nonlinearity effects 

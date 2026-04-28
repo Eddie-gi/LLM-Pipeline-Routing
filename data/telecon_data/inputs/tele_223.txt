@@ -1,0 +1,1 @@
+question: What is a consequence of the concavity of entropy? option 1: Lower entropy when mixing two gases option 2: Higher entropy when mixing two gases option 3: Unchanged entropy when mixing two gases option 4: Decreased entropy when mixing two gases option 5: None of the above 

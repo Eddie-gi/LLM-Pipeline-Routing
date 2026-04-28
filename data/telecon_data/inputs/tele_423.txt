@@ -1,0 +1,1 @@
+question: Which property determines the inherent absorption and scattering coefficients of water? option 1: Chemical composition option 2: Density of the particulate matters option 3: Water types 

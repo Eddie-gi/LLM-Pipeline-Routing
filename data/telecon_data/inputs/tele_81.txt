@@ -1,0 +1,1 @@
+question: What needs to be taken into account upon deactivation of packet duplication in DC (dual connectivity)? option 1: PDCP entity transmission option 2: Path restriction option 3: RLC entities maintenance option 4: Split threshold 

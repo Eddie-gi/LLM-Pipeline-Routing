@@ -1,0 +1,1 @@
+option 2: With more UEs, the offloading and processing at the MEC are slower

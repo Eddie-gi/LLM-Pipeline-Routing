@@ -1,0 +1,1 @@
+question: Which protocol is used for exchanging files between different hosts? [TCP/IP] option 1: HTTPS option 2: SSH option 3: FTP option 4: NTP 

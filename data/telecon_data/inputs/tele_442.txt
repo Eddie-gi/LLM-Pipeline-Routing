@@ -1,0 +1,1 @@
+question: Which decoding algorithm achieves the ML performance by guessing a possible noise sequence to retrieve the received codeword? option 1: Ordered-Statistics Decoding (OSD) option 2: Guessing Random Additive Noise Decoding (GRAND) option 3: Successive Cancellation List (SCL) option 4: Successive Cancellation Stack (SCS) option 5: Sequential (SQ) 

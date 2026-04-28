@@ -1,0 +1,1 @@
+question: What is the fundamental idea behind a CSMA (Carrier Sense Multiple Access) protocol for local area networks? option 1: To minimize the waiting time for packets option 2: To maximize the number of successful transmissions option 3: To avoid collisions between packets option 4: To increase the throughput of the network 

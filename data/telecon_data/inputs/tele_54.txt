@@ -1,0 +1,1 @@
+question: What determines the allowed network exposure information for the UE? [3GPP Release 18] option 1: The AF's request to the NEF option 2: The SMF's subscription record stored in the UDM option 3: The UE's PDU Session ID option 4: The AIML operation type option 5: The UE's subscription record stored in the UDM 

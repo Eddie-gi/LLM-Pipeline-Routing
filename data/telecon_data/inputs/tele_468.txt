@@ -1,0 +1,1 @@
+question: What is the purpose of the length field in the MAC (Medium Access Control) frame format? option 1: To synchronize the receive PLS with the transmitted symbol stream option 2: To indicate the start of the frame option 3: To provide the source and destination addresses option 4: To indicate the length of the LLC data option 5: To perform error detection 

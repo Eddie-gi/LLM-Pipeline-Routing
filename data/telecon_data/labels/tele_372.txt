@@ -1,0 +1,1 @@
+option 4: Blocking of the strongest (LoS) path and beam misalignment

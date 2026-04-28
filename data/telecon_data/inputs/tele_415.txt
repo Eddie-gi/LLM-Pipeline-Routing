@@ -1,0 +1,1 @@
+question: What can be an issue in a wireless powered communication network (WPCN) regarding accurate knowledge of channel state information (CSI)? option 1: Shorter energy/information transmission time option 2: Higher energy consumption on channel estimation option 3: Compromised transmission rate (or reliability) due to less energy for communication option 4: All of the above 

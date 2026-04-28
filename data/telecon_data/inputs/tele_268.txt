@@ -1,0 +1,1 @@
+question: What is the purpose of the optimization algorithm in a Deep Learning model? option 1: To adjust the outputs of each neuron. option 2: To represent the weights of the model. option 3: To evaluate the correctness of the results. option 4: To optimize the model through a training process. option 5: To adjust the learning rate of the model. 

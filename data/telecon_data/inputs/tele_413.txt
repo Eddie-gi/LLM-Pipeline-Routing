@@ -1,0 +1,1 @@
+question: What is the main goal of language modeling (LM)? option 1: To model the generative likelihood of word sequences option 2: To predict the probabilities of future tokens option 3: To understand and communicate in human language option 4: To enhance task performance in information retrieval option 5: To develop powerful artificial intelligence algorithms 

@@ -1,0 +1,1 @@
+question: What key parameter is the Doppler spread Ds related to? option 1: Angular spread of the arriving paths option 2: Velocity of the mobile option 3: Coherence time option 4: Delay spread option 5: Carrier frequency 

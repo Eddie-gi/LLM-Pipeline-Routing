@@ -1,0 +1,1 @@
+question: How is the indication of reduced capabilities provided during the random-access procedure? option 1: In Message 1 option 2: In Message 2 option 3: In Message 3 (or Message A) option 4: In Message 4 option 5: In PUCCH 

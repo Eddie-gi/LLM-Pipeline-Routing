@@ -1,0 +1,1 @@
+question: What is the role of quantum repeaters in the distribution of entanglement? option 1: To generate entangled pairs option 2: To measure and copy entangled qubits option 3: To transmit entangled qubits without physical transfer option 4: To overcome decoherence in entangled pairs option 5: To extend the distribution of entanglement over longer distances 

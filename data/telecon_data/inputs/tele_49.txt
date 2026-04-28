@@ -1,0 +1,1 @@
+question: Which regulations cover the design, manufacture, and operation of drones? option 1: EU Commission Delegated Regulations 2019/945 (EU2019/945) option 2: EU Commission Delegated Regulations 2019/947 (EU2019/947) option 3: 3GPP Technical Specification TS 22.125 option 4: EU2019/945 and EU2019/947 option 5: TS 22.125 and EU2019/947 

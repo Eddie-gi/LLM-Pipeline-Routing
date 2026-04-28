@@ -1,0 +1,1 @@
+question: What functionalities does the RRC sublayer provide for sidelink communication? [3GPP Release 18] option 1: Configuration of sidelink resource allocation option 2: Reporting of UE sidelink information option 3: Measurement configuration and reporting related to sidelink option 4: Reporting of UE assistance information for SL traffic pattern(s) option 5: All of the above 

@@ -1,0 +1,1 @@
+option 5: The maximum number of buffered BUs the STA is prepared to receive.

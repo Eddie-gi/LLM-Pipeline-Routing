@@ -1,0 +1,1 @@
+question: What is the variation of signal strength over distances of the order of cell sizes called? option 1: Small-scale fading option 2: Large-scale fading option 3: Doppler spread option 4: Coherence time option 5: Delay spread 

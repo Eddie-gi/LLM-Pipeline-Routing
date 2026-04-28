@@ -1,0 +1,1 @@
+option 1: RSRPmeas < ThreshServingOffloadWLAN, LowP and ChannelUtilizationWLAN < ThreshChUtilWLAN, Low

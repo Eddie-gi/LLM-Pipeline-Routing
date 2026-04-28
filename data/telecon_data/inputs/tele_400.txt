@@ -1,0 +1,1 @@
+question: What defines the comb size of a DL PRS resource? [3GPP Release 17] option 1: dl-PRS-ResourceSymbolOffset option 2: dl-PRS-StartPRB option 3: numSymbols option 4: dl-PRS-ResourceSlotOffset option 5: nr-DL-PRS-CombSizeN-AndReOffset 

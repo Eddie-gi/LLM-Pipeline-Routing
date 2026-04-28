@@ -1,0 +1,1 @@
+question: Which component of ParaDrop (Platform) manages ParaDrop system resources and provides software distribution? option 1: Edge Compute Node option 2: APIs option 3: Cloud Controller option 4: Chutes option 5: None of the above 

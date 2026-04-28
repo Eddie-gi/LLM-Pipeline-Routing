@@ -1,0 +1,1 @@
+question: What is one of the key prerequisites for semantic communication? option 1: Recognition and extraction of semantic information option 2: Development of knowledge coordination mechanisms option 3: Training large deep learning models option 4: Coordination among communication participants option 5: Updating local knowledge models 

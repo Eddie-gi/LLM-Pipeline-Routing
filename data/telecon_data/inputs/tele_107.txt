@@ -1,0 +1,1 @@
+question: What is the main objective of semantic communication? option 1: To maximize data rate option 2: To deliver the intended meaning of the message option 3: To improve communication efficiency option 4: To optimize network resources 

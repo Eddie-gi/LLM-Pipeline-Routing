@@ -1,0 +1,1 @@
+question: What is the main advantage of an instantaneous code? option 1: No codeword is a prefix of any other codeword option 2: Decoding can be done without reference to future codewords option 3: The probability of errors is minimized option 4: The codewords are of equal length 

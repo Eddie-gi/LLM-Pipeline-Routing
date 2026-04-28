@@ -1,0 +1,1 @@
+question: What are commonly used performance criteria in communications systems? option 1: Target detection performance option 2: Mean square error (MSE) option 3: Spectral efficiency option 4: Ambiguity function (AF) option 5: Cramér-Rao Lower Bound (CRLB) 

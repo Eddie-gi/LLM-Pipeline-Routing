@@ -1,0 +1,1 @@
+question: What is the purpose of diversity in cellular radio systems? option 1: To increase the bit rate option 2: To reduce the effects of fading option 3: To increase the interference option 4: To decrease the signal quality 

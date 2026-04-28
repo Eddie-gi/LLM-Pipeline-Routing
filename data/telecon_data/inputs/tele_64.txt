@@ -1,0 +1,1 @@
+question: What does AID stand for in the context of the association procedure? [IEEE 802.11] option 1: Authentication ID option 2: Associated Identification option 3: Access Point ID option 4: Association ID option 5: Appointed Identifier 

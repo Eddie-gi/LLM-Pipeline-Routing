@@ -1,0 +1,1 @@
+question: What is the key challenge in open-world recognition? option 1: Detecting unknown samples and placing them in a buffer option 2: Labeling unknown samples into new categories option 3: Updating the classifier with augmented categories and samples option 4: All of the above 

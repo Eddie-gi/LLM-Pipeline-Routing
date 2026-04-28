@@ -1,0 +1,1 @@
+question: What is localization for robots? option 1: Determining the size of each sub-map option 2: Collecting radio information option 3: Mapping the radio propagations between BSs/APs and robots option 4: Perceiving and determining their locations in the environment 

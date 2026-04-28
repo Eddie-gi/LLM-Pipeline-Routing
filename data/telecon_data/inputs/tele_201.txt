@@ -1,0 +1,1 @@
+question: Which organization has specified metrics to assess mobile network energy efficiency? option 1: European Telecommunications Standards Institute option 2: International Telecommunication Union option 3: Third Generation Partnership Project option 4: All of the above 

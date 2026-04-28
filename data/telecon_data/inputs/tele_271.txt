@@ -1,0 +1,1 @@
+question: Which type of attack targets the storage and management of cryptographic keys in Bitcoin wallets? option 1: Double Spending Attack option 2: Client-side Security Threats option 3: Mining Pool Attacks option 4: Bitcoin Network Attacks option 5: Security Breaches/Incidents 

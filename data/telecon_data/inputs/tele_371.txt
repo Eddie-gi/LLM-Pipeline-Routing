@@ -1,0 +1,1 @@
+question: What is the evaluation criterion used to evaluate the training quality of the FL (Federated Learning) model? option 1: The reward amount stored in the wallet address option 2: The accuracy performance option 3: The model updates uploaded by devices option 4: The testing dataset option 5: The global model issued by the task publisher 

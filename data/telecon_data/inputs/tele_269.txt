@@ -1,0 +1,1 @@
+question: What is the measure of energy efficiency in the NOMA (Non-orthogonal multiple access) heterogeneous network? option 1: System sum rate option 2: Total power consumption option 3: Bits per Joule option 4: Circuitry-consumed power option 5: Transmission power 

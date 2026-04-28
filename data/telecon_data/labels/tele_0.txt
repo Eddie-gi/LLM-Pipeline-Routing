@@ -1,0 +1,1 @@
+option 3: HDC/VSA is a concept that extends beyond typical AI tasks and performs symbolic manipulations with distributed representations.

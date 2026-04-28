@@ -1,0 +1,1 @@
+question: Is supporting periodic location reporting a requirement for Emergency Services? [3GPP Release 17] option 1: Yes, it is a requirement option 2: No, it is not a requirement option 3: It depends on asset management services option 4: It depends on the PLMN operator option 5: It depends on the Privacy Exception List 

@@ -1,0 +1,1 @@
+question: What is one of the advantages of terahertz systems over lower radio frequency bands and higher optical bands? option 1: Longer communication range option 2: Higher data rates option 3: Less interference option 4: Lower power consumption option 5: Faster processing speed 

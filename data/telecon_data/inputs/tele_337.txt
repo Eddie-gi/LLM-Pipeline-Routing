@@ -1,0 +1,1 @@
+question: What does the xApp located in the Near-RT RIC control? option 1: The O-DU antennas option 2: The Inter-O-DU coordination interface option 3: The user categorization option 4: The fronthaul interface option 5: The digital beamforming 

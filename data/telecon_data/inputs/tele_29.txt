@@ -1,0 +1,1 @@
+question: What should URSP rules based on AF guidance not be set as? [3GPP Release 18] option 1: Match all traffic descriptor option 2: URSP rules with low priority option 3: URSP rules without traffic descriptor option 4: URSP rules for specific locations 

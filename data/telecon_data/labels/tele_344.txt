@@ -1,0 +1,1 @@
+option 2: Signal-aware samplers use causal knowledge of the signal, while signal-agnostic samplers do not

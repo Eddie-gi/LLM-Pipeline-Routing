@@ -1,0 +1,1 @@
+option 3: To compress data into a tensor of smaller size

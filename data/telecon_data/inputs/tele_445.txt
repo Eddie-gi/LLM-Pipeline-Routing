@@ -1,0 +1,1 @@
+question: What is the interaction between the 5GC NF(s) and the EASDF? [3GPP Release 18] option 1: They do not interact within a PLMN option 2: They interact using DNS messages option 3: They interact to exchange DNS message handling rules option 4: They interact for EASDF discovery and selection option 5: None of the above 

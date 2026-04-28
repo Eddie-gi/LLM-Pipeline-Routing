@@ -1,0 +1,1 @@
+option 3: When the NG-RAN receives Location Reporting Control message indicating single stand-alone report

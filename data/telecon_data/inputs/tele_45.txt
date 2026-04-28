@@ -1,0 +1,1 @@
+question: What are the electrical parameters used to code digital signals? option 1: Levels, transitions, and phases option 2: Levels, pulse duration, and frequencies option 3: Levels, transitions, phases, and pulse duration option 4: Transitions, phases, pulse duration, and frequencies option 5: Levels, frequencies, and pulse duration 

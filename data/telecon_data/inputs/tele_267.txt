@@ -1,0 +1,1 @@
+question: What are the three components of the 802.11 management architecture? [IEEE 802.11] option 1: MLME, PLME, and SME option 2: MAC, PHY, and SME option 3: MLME, PHY, and SME option 4: MAC, PLME, and SME 

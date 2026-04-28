@@ -1,0 +1,1 @@
+question: Why are large-scale DL (Deep Learning) models generally deployed in the cloud? option 1: To guarantee the delay requirement of real-time services option 2: To ensure data safety and privacy protection option 3: To reduce the computation costs option 4: To optimize DL models for resource-constrained edge devices 

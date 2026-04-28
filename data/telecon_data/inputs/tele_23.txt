@@ -1,0 +1,1 @@
+question: What is the term used to refer to the management and orchestration of services? [ETSI NFV Release 5] option 1: RAN virtualisation option 2: Functional splits option 3: NFV-MANO option 4: NSMF option 5: PF 

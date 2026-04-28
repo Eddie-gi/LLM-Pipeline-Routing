@@ -1,0 +1,1 @@
+question: What is the scrambling sequence initialized with at the start of each SS/PBCH block? [3GPP Release 17] option 1: SSB option 2: PBCH option 3: Candidate SS/PBCH block index option 4: C-RNTI option 5: MCS-C-RNTI 

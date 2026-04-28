@@ -1,0 +1,1 @@
+question: What is the main advantage of NOMA (Non-orthogonal multiple access) HetNet (Heterogeneous Network) compared to OFDM (Orthogonal Frequency Division Multiplex) HetNet? option 1: Greater coverage area. option 2: Lower power consumption. option 3: Faster data rate. option 4: Higher spectrum efficiency. 

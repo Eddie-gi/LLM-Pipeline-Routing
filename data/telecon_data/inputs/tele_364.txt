@@ -1,0 +1,1 @@
+question: What are the attractive characteristics of 3D aerial highways? option 1: They are inflexible and difficult to modify option 2: They are energy-consuming option 3: They are easily reconfigurable option 4: They are designed for ground vehicles option 5: They do not require cellular connectivity 

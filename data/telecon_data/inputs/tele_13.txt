@@ -1,0 +1,1 @@
+question: Which modulation scheme is closely related to ZC (Zadoff Chu) sequences? option 1: PN sequences option 2: Walsh codes option 3: ZC sequences option 4: Complementary Code Keying (CCK) modulation 

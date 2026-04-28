@@ -1,0 +1,1 @@
+question: What functionality does LLDP provide in the TSN Transport Network? [3GPP Release 18] option 1: Dynamic address assignment option 2: Stream management option 3: Topology information exchange option 4: Priority queueing 

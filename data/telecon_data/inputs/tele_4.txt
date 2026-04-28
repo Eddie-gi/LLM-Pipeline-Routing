@@ -1,0 +1,1 @@
+question: Which wireless protocol is commonly used by BLE beacons? option 1: Bluetooth Classic option 2: Wi-Fi option 3: Zigbee option 4: BLE (Bluetooth Low Energy) 

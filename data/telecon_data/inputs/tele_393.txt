@@ -1,0 +1,1 @@
+question: What is the objective of distance-aware bandwidth-adaptive resource allocation in mm-wave and THz networks? option 1: Minimizing energy consumption option 2: Maximizing data rate option 3: Maximizing communication distance option 4: Optimizing modulation techniques 

@@ -1,0 +1,1 @@
+question: Which satellite access network type has the lowest end-to-end latency requirement in a 5G system? [3GPP Release 17] option 1: GEO based satellite access option 2: MEO based satellite access option 3: LEO based satellite access option 4: All have the same end-to-end latency requirement 

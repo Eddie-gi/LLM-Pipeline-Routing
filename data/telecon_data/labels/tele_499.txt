@@ -1,0 +1,1 @@
+option 2: The 2-byte name of a file or a directory on the UICC.

@@ -1,0 +1,1 @@
+question: What is one of the drawbacks of shadow training for training SNNs (spiking neural networks)? option 1: Long training time option 2: Inability to handle time-varying data option 3: Lack of compatibility with deep learning techniques option 4: Inaccurate conversion from ANN to SNN 

@@ -1,0 +1,1 @@
+question: What is the purpose of the disassociation service in 802.11 networks? [IEEE 802.11] option 1: To integrate non-IEEE 802.11 networks option 2: To evaluate signal strength option 3: To terminate an existing association option 4: To deliver frames to their destination option 5: To register mobile stations with access points 

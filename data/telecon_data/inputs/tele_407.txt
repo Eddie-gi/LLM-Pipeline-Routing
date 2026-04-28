@@ -1,0 +1,1 @@
+question: What does balking refer to in a queueing system? option 1: Arriving customers decide to join the queue immediately. option 2: Arriving customers decide not to join the queue. option 3: Arriving customers prefer to wait in the queue. option 4: Arriving customers are unsure whether to join the queue. 

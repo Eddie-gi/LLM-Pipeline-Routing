@@ -1,0 +1,1 @@
+question: What is the granularity of the dl-PRS-ResourceBandwidth parameter? [3GPP Release 17] option 1: 4 PRBs option 2: 1 PRB option 3: 24 PRBs option 4: 272 PRBs option 5: None of the above 

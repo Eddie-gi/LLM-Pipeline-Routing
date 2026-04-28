@@ -1,0 +1,1 @@
+question: What is the range of the number of symbols in the SRS (Sounding Reference Signal) resource for positioning? option 1: 1-4 option 2: 1-8 option 3: 1-12 option 4: 1-16 

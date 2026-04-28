@@ -1,0 +1,1 @@
+question: What is the mean of the exponential distribution? option 1: 1/λ option 2: λ option 3: λ/2 option 4: λ^2 

@@ -1,0 +1,1 @@
+question: Which VLANs limit the problem of broadcast messages? [IEEE 802.3] option 1: VLANs organized by department option 2: VLANs organized by hierarchy option 3: VLANs organized by use option 4: All VLANs 

@@ -1,0 +1,1 @@
+option 2: Support for synchronization between different media components

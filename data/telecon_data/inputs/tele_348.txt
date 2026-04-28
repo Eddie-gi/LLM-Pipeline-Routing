@@ -1,0 +1,1 @@
+question: Which state is the UE expected to receive the DL PRS for RTT-based propagation delay compensation in? [3GPP Release 17] option 1: RRC_IDLE state option 2: RRC_CONNECTED state option 3: RRC_INACTIVE state option 4: RRC_RELEASED state option 5: None of the above 

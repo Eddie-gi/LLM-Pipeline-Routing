@@ -1,0 +1,1 @@
+option 3: To reduce the computation costs

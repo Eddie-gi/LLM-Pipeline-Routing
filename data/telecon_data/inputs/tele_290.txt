@@ -1,0 +1,1 @@
+question: What is the major driving force for wireless operators to reduce energy consumption in wireless networks? option 1: To maintain sustainable capacity growth option 2: To limit the electricity bill option 3: To reduce greenhouse gas emissions option 4: To meet social responsibilities option 5: All of the above 

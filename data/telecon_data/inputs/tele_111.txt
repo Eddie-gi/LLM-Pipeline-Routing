@@ -1,0 +1,1 @@
+question: According to Pearl's Ladder of Causation, which type of question can only be answered if information from all other levels is available? option 1: Associational questions. option 2: Interventional questions. option 3: Counterfactual questions. option 4: All types of questions can be answered independently. 

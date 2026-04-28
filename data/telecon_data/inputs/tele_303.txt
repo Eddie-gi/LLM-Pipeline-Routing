@@ -1,0 +1,1 @@
+question: What are some potential challenges in microscale molecular communication? option 1: Developing reliable and efficient communication systems option 2: Ensuring compatibility with existing electronic communication systems option 3: Achieving high data transfer rates option 4: Securing the communication channels 

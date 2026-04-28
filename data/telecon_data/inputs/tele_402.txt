@@ -1,0 +1,1 @@
+question: What separates the frames transmitted during the Pairnet associated period (PAP)? option 1: Beacons option 2: Short interframe space (SIFS) option 3: Association Request option 4: Disassociation Request 

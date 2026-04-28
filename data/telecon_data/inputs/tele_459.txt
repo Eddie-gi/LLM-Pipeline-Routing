@@ -1,0 +1,1 @@
+question: What determines the mapping between service data of different domains? [3GPP Release 18] option 1: The visited network option 2: The home environment option 3: The roaming agreement option 4: The capabilities of the visited network option 5: The roaming subscriber 

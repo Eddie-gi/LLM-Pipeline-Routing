@@ -1,0 +1,1 @@
+option 3: Support for Preconfigured uplink resources (PUR) in idle mode

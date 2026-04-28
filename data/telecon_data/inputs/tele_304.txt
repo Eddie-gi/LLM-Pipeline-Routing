@@ -1,0 +1,1 @@
+question: What does LBT stand for? option 1: Low Bitrate Transmission option 2: Load Balancing Technique option 3: Long Buffer Time option 4: Long Bit Transmission option 5: Listen Before Talk 

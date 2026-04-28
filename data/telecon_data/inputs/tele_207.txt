@@ -1,0 +1,1 @@
+question: What is the on-duration of DRX? [3GPP Release 18] option 1: The duration that the UE monitors PDCCH option 2: The duration until a retransmission can be expected option 3: The duration that the UE waits for, after waking up, to receive PDCCHs option 4: The total duration that the UE monitors PDCCH 

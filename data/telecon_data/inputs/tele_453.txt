@@ -1,0 +1,1 @@
+question: Which type of information has the constraint of irreversibly degrading over time? option 1: Classical information option 2: Quantum information option 3: Both classical and quantum information 

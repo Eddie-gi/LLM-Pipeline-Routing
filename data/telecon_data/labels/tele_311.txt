@@ -1,0 +1,1 @@
+option 1: To terminate the radio protocols of the E-UTRA radio interface

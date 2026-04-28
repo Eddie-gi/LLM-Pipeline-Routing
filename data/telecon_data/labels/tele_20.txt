@@ -1,0 +1,1 @@
+option 1: The estimation of the input vector based on the received signal vector and the channel matrix.

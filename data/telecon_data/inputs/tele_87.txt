@@ -1,0 +1,1 @@
+question: Which company provides the IBM Watson cognitive framework? option 1: Microsoft option 2: Google option 3: IBM option 4: Mitsubishi Electric Research Labs option 5: University of Genova 

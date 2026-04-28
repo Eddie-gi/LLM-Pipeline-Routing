@@ -1,0 +1,1 @@
+question: What does the NWDAF containing MTLF consider when using untrusted AF(s) as data sources? [3GPP Release 18] option 1: The rating of untrusted AF(s) option 2: The accuracy of ML models option 3: Both option 1 and option 2 option 4: None of the above 

@@ -1,0 +1,1 @@
+question: Which routing protocol employs objective functions to specify the selection of routes based on QoS (Quality of Service) requirements? option 1: 6LoWPAN option 2: RPL option 3: 6TiSCH option 4: DSME option 5: IEEE 802.11e 

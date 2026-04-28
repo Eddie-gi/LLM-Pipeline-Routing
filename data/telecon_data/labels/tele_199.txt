@@ -1,0 +1,1 @@
+option 2: To synchronize LTE-U SC measurements

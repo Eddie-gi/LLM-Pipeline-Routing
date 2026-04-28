@@ -1,0 +1,1 @@
+question: What does the accelerator system for processing sparse and irregular tensor computations consist of? option 1: Hardware modules option 2: Software modules option 3: Interfacing and execution flow option 4: All of the above 

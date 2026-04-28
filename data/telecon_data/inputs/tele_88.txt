@@ -1,0 +1,1 @@
+question: What is the issue with using Received Signal Strength (RSS) for proximity sensing? option 1: RSS is not accurate for measuring proximity option 2: RSS is susceptible to environmental dynamics option 3: RSS does not work with BLE signals option 4: RSS only works for smartphones, not wearable devices option 5: RSS does not fluctuate even when devices are stationary 

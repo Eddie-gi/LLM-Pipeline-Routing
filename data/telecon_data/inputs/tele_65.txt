@@ -1,0 +1,1 @@
+question: In SNPN access operation mode over 3GPP access, what lists does the MS maintain for regional provision of service? [3GPP Release 18] option 1: Lists of forbidden access points option 2: Lists of forbidden tracking areas option 3: Lists of selected SNPNs option 4: Lists of PLMN subscriptions 

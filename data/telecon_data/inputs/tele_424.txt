@@ -1,0 +1,1 @@
+question: What does the term 'Bandwidth' refer to in telecommunications? option 1: The physical width of a network cable. option 2: The number of devices connected to a network. option 3: The capacity of a communication channel to carry data. option 4: The geographical coverage of a cellular network. 

@@ -1,0 +1,1 @@
+option 4: Differential privacy provides a trade-off between accuracy and privacy in handling big data in CPSs

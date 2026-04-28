@@ -1,0 +1,1 @@
+option 3: They offer flexibility to update receiver and transmitter functionalities by modifying software code.

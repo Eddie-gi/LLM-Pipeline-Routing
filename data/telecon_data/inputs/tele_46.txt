@@ -1,0 +1,1 @@
+question: What is the primary role of antennas in conventional wireless communication systems? option 1: Frequency conversion option 2: Signal amplification option 3: Data encoding option 4: Wireless sensing option 5: Wireless transmission 
